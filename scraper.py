@@ -1,53 +1,54 @@
-import pandas as pd
 import requests
-from bs4 import BeautifulSoup
+import pandas as pd
 import time
 import os
 
-def get_subs():
-    # 1. Target the 2025/26 Season Schedule
-    url = "https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures"
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    res = requests.get(url, headers=headers)
-    soup = BeautifulSoup(res.content, 'html.parser')
-    
-    # 2. Get the latest 10 Match Reports (to avoid getting blocked)
-    links = [f"https://fbref.com{a['href']}" for a in soup.select('td[data-stat="match_report"] a')]
-    
-    all_subs = []
-    for link in links[-10:]:
-        try:
-            print(f"Scraping: {link}")
-            time.sleep(5) # Respect the robot limits
-            
-            # Read ALL tables on the page
-            tables = pd.read_html(link)
-            
-            # Find the "Match Summary" table (where the sub icons live)
-            for df in tables:
-                # We are looking for columns that usually contain events
-                if any(col in df.columns for col in ['Event', 'Time', 'Score']):
-                    # Filter rows that look like substitutions
-                    # FBref uses 'Substitution' text in the Event column
-                    mask = df.stack().str.contains('Substitution', na=False).unstack().any(axis=1)
-                    subs_df = df[mask].copy()
-                    
-                    if not subs_df.empty:
-                        # Extract the data
-                        # Note: We take the first 3 columns as they usually hold Time and Names
-                        subs_df['Match'] = link.split('/')[-1]
-                        all_subs.append(subs_df)
-        except Exception as e:
-            print(f"Skipping {link} due to {e}")
-            continue
+# --- CONFIG ---
+API_KEY = "646723f7-64cf-4e49-b4e4-3f339d6edfe1"
+HEADERS = {"Authorization": API_KEY}
+BASE_URL = "https://api.balldontlie.io/epl/v2"
 
-    if all_subs:
-        final_data = pd.concat(all_subs, ignore_index=True)
-        # Convert to CSV format
-        final_data.to_csv('all_subs_2026.csv', index=False)
-        print("✅ Data Found and Saved!")
+def get_all_subs():
+    # 1. Get all matches for the 2025/26 season
+    print("🛰️ Connecting to Ball Don't Lie...")
+    match_res = requests.get(f"{BASE_URL}/matches", params={"season": 2025}, headers=HEADERS)
+    matches = match_res.json().get('data', [])
+    
+    # Filter for games that are finished (Status: 'Final')
+    match_ids = [m['id'] for m in matches if m['status'] == 'Final']
+    print(f"✅ Found {len(match_ids)} completed matches to analyze.")
+
+    all_pairs = []
+
+    # 2. Get events for each match
+    for m_id in match_ids:
+        # Respect API rate limits (1.2s sleep for ~50 requests per minute)
+        time.sleep(1.2) 
+        
+        event_res = requests.get(f"{BASE_URL}/match_events", params={"match_ids[]": m_id}, headers=HEADERS)
+        events = event_res.json().get('data', [])
+        
+        for e in events:
+            if e['event_type'] == 'substitution':
+                # BDL Logic: 'player' is ON, 'secondary_player' is OFF
+                p_on = e.get('player', {}).get('display_name', 'Unknown')
+                p_off = e.get('secondary_player', {}).get('display_name', 'Unknown')
+                
+                all_pairs.append({
+                    "Team_ID": e['team_id'],
+                    "Match_ID": m_id,
+                    "Min": e['event_time'],
+                    "Off": p_off,
+                    "On": p_on
+                })
+
+    # 3. Save to CSV
+    if all_pairs:
+        df = pd.DataFrame(all_pairs)
+        df.to_csv('all_subs_2026.csv', index=False)
+        print(f"🚀 Success! Created 'all_subs_2026.csv' with {len(df)} sub events.")
     else:
-        print("❌ No new substitutions found in these match reports.")
+        print("❌ No sub data found. Check match status.")
 
 if __name__ == "__main__":
-    get_subs()
+    get_all_subs()
