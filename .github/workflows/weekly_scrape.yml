@@ -1,0 +1,24 @@
+name: Weekly Sub Update
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Runs every Monday at midnight
+  workflow_dispatch: # Allows you to click a button to run it manually
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install pandas requests beautifulsoup4 lxml
+      - name: Run Scraper
+        run: python scraper.py
+      - name: Commit and Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git add all_subs_2026.csv
+          git commit -m "Auto-update substitution data" || exit 0
+          git push
