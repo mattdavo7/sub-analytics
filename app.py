@@ -1,53 +1,58 @@
 import streamlit as st
 import pandas as pd
 
-# 1. Page Styling
 st.set_page_config(page_title="Opta Sub Intelligence", layout="wide")
-st.markdown("<style>.main { background-color: #050505; color: #ffffff; }</style>", unsafe_allow_html=True)
 
-# 2. Data Loading - Updated to use the correct file name
-@st.cache_data
-def load_data():
-    # Make sure this filename matches exactly what you uploaded to GitHub
-    return pd.read_csv('all_subs_2026.csv') 
+# Custom Dark Mode Styling
+st.markdown("""
+    <style>
+    .main { background-color: #050505; color: #ffffff; }
+    .stMetric { background-color: #111111; padding: 15px; border-radius: 10px; border: 1px solid #333; }
+    </style>
+    """, unsafe_allow_html=True)
 
-try:
-    df = load_data()
-    st.title("📊 opta-sub-intelligence")
-    st.caption("Data Source: SofaScore / Opta | Season 2025/26")
+# Navigation Tabs at the top
+tab1, tab2 = st.tabs(["🏆 Premier League", "⚽ Championship"])
 
-    # 3. Selectors - UPDATED to lowercase to match SofaScore scraper
-    col1, col2 = st.columns(2)
-    with col1:
-        team = st.selectbox("Select Club", sorted(df['team'].unique()))
-        team_df = df[df['team'] == team]
-    with col2:
-        player_off = st.selectbox("Select Player (OFF)", sorted(team_df['off'].unique()))
-    
-    # 4. Habit Analysis
-    logs = team_df[team_df['off'] == player_off]
-    total = len(logs)
-    
-    if total > 0:
-        counts = logs['on'].value_counts().reset_index()
-        counts.columns = ['Replacement', 'Freq']
+def run_analysis(csv_file, league_name):
+    try:
+        df = pd.read_csv(csv_file)
         
-        st.subheader(f"Tactical Habits for {player_off}")
-        cols = st.columns(len(counts))
-        for i, row in counts.iterrows():
-            pct = int((row['Freq'] / total) * 100)
-            avg_min = int(logs[logs['on'] == row['Replacement']]['min'].mean())
+        col1, col2 = st.columns(2)
+        with col1:
+            team = st.selectbox(f"Select Club ({league_name})", sorted(df['team'].unique()), key=f"{league_name}_t")
+            team_df = df[df['team'] == team]
+        with col2:
+            player_off = st.selectbox(f"Select Player OFF ({league_name})", sorted(team_df['off'].unique()), key=f"{league_name}_p")
+        
+        logs = team_df[team_df['off'] == player_off]
+        
+        if len(logs) > 0:
+            st.subheader(f"Tactical Habits for {player_off}")
+            counts = logs['on'].value_counts().reset_index()
+            counts.columns = ['Replacement', 'Freq']
             
-            with cols[i]:
-                st.metric(f"In: {row['Replacement']}", f"{row['Freq']} Games", f"{pct}% Freq")
-                st.caption(f"Avg Timing: {avg_min}'")
+            # Display metrics for top replacements
+            metric_cols = st.columns(len(counts))
+            for i, row in counts.iterrows():
+                pct = int((row['Freq'] / len(logs)) * 100)
+                avg_min = int(logs[logs['on'] == row['Replacement']]['min'].mean())
+                with metric_cols[i]:
+                    st.metric(label=f"In: {row['Replacement']}", value=f"{row['Freq']} Games", delta=f"{pct}% Frequency")
+                    st.caption(f"Avg Timing: {avg_min}'")
             
-        st.write("### 📅 Seasonal Match Timeline")
-        # Displaying lowercase columns from the new scraper
-        st.dataframe(logs[['min', 'on', 'opp', 'date']], use_container_width=True)
-    else:
-        st.info(f"No substitution history found for {player_off}.")
+            st.write("### 📅 Match Timeline")
+            st.dataframe(logs[['min', 'on', 'opp', 'date']].sort_values(by='date', ascending=False), use_container_width=True)
+        else:
+            st.info("No data found for this player.")
+            
+    except FileNotFoundError:
+        st.error(f"File '{csv_file}' not found on GitHub. Please upload it to see {league_name} data.")
 
-except Exception as e:
-    st.error(f"Error loading data: {e}")
-    st.info("Check that all_subs_2026.csv is uploaded and column names are correct.")
+with tab1:
+    st.title("Premier League Sub Intel")
+    run_analysis('all_subs_2026.csv', "PL")
+
+with tab2:
+    st.title("Championship Sub Intel")
+    run_analysis('championship_subs_2026.csv', "EFL")
