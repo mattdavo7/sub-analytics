@@ -1,0 +1,1569 @@
+gw,team,opp,off,on,min,date
+1,Arsenal,Athletic Club,R. Calafiori,P. Hincapié,90,2025-09-16
+1,Arsenal,Athletic Club,N. Madueke,C. Nørgaard,90,2025-09-16
+1,Athletic Club,Arsenal,M. Vesga,A. R. Mora,81,2025-09-16
+1,Athletic Club,Arsenal,U. Gómez,N. Serrano,81,2025-09-16
+1,Arsenal,Athletic Club,E. Eze,G. Martinelli,71,2025-09-16
+1,Athletic Club,Arsenal,A. Boiro,Y. Berchiche,68,2025-09-16
+1,Athletic Club,Arsenal,O. Sancet,G. Guruzeta,68,2025-09-16
+1,Arsenal,Athletic Club,V. Gyökeres,L. Trossard,65,2025-09-16
+1,Athletic Club,Arsenal,R. Navarro,U. Gómez,61,2025-09-16
+1,Royale Union Saint-Gilloise,PSV Eindhoven,K. Rodríguez,R. Schoofs,88,2025-09-16
+1,PSV Eindhoven,Royale Union Saint-Gilloise,M. Boadu,D. Man,80,2025-09-16
+1,Royale Union Saint-Gilloise,PSV Eindhoven,A. A. E. Hadj,K. V. D. Perre,75,2025-09-16
+1,PSV Eindhoven,Royale Union Saint-Gilloise,I. Saibari,P. Wanner,74,2025-09-16
+1,PSV Eindhoven,Royale Union Saint-Gilloise,R. Pepi,M. Boadu,74,2025-09-16
+1,Royale Union Saint-Gilloise,PSV Eindhoven,P. David,M. Giger,67,2025-09-16
+1,PSV Eindhoven,Royale Union Saint-Gilloise,A. Obispo,A. Salah-Eddine,46,2025-09-16
+1,PSV Eindhoven,Royale Union Saint-Gilloise,J. Schouten,G. Til,46,2025-09-16
+1,Qarabağ FK,Benfica,C. Durán,M. Qurbanlı,90,2025-09-16
+1,Benfica,Qarabağ FK,R. Ríos,L. Barreiro,79,2025-09-16
+1,Benfica,Qarabağ FK,V. Pavlidis,H. Araújo,79,2025-09-16
+1,Qarabağ FK,Benfica,E. Cafarquliyev,T. Bayramov,77,2025-09-16
+1,Qarabağ FK,Benfica,M. Janković,O. Kashchuk,77,2025-09-16
+1,Benfica,Qarabağ FK,A. Schjelderup,G. Prestianni,70,2025-09-16
+1,Benfica,Qarabağ FK,F. Aursnes,F. Ivanović,70,2025-09-16
+1,Qarabağ FK,Benfica,L. Andrade,E. Addai,66,2025-09-16
+1,Borussia Dortmund,Juventus,S. Guirassy,P. Gross,90,2025-09-16
+1,Juventus,Borussia Dortmund,K. Yıldız,E. Zhegrova,87,2025-09-16
+1,Borussia Dortmund,Juventus,F. Nmecha,J. Bellingham,71,2025-09-16
+1,Borussia Dortmund,Juventus,M. Beier,J. Brandt,71,2025-09-16
+1,Juventus,Borussia Dortmund,L. Openda,V. Adžić,69,2025-09-16
+1,Juventus,Borussia Dortmund,T. Koopmeiners,M. Locatelli,69,2025-09-16
+1,Juventus,Borussia Dortmund,J. David,D. Vlahović,60,2025-09-16
+1,Juventus,Borussia Dortmund,W. McKennie,J. Mário,59,2025-09-16
+1,Olympique de Marseille,Real Madrid,B. Pavard,C. Egan-Riley,88,2025-09-16
+1,Olympique de Marseille,Real Madrid,Emerson,A. Murillo,78,2025-09-16
+1,Olympique de Marseille,Real Madrid,T. Weah,A. Gouiri,78,2025-09-16
+1,Real Madrid,Olympique de Marseille,A. Güler,R. Asencio,73,2025-09-16
+1,Olympique de Marseille,Real Madrid,G. Kondogbia,A. Vermeeren,67,2025-09-16
+1,Olympique de Marseille,Real Madrid,M. O'Riley,I. Paixão,66,2025-09-16
+1,Real Madrid,Olympique de Marseille,F. Mastantuono,B. Díaz,63,2025-09-16
+1,Real Madrid,Olympique de Marseille,Rodrygo,Vinícius Jr.,63,2025-09-16
+1,Real Madrid,Olympique de Marseille,T. Alexander-Arnold,D. Carvajal,5,2025-09-16
+1,Tottenham Hotspur,Villarreal,L. Bergvall,K. Danso,90,2025-09-16
+1,Villarreal,Tottenham Hotspur,T. Buchanan,A. Moleiro,82,2025-09-16
+1,Villarreal,Tottenham Hotspur,P. Gueye,D. Parejo,78,2025-09-16
+1,Villarreal,Tottenham Hotspur,S. Comesaña,T. Partey,78,2025-09-16
+1,Tottenham Hotspur,Villarreal,Richarlison,R. K. Muani,77,2025-09-16
+1,Tottenham Hotspur,Villarreal,X. Simons,B. Johnson,77,2025-09-16
+1,Villarreal,Tottenham Hotspur,S. Cardona,I. Akhomach,75,2025-09-16
+1,Villarreal,Tottenham Hotspur,A. Pérez,A. Pedraza,75,2025-09-16
+1,Tottenham Hotspur,Villarreal,D. Spence,D. Udogie,69,2025-09-16
+1,Tottenham Hotspur,Villarreal,P. M. Sarr,J. Palhinha,69,2025-09-16
+1,Pafos FC,Olympiacos FC,V. Dragomir,A. Silva,86,2025-09-17
+1,Pafos FC,Olympiacos FC,Jajá,K. Sema,77,2025-09-17
+1,Pafos FC,Olympiacos FC,J. Correia,B. Langa,77,2025-09-17
+1,Olympiacos FC,Pafos FC,L. Pirola,G. Biancone,76,2025-09-17
+1,Olympiacos FC,Pafos FC,S. Hezze,S. Pnevmonidis,75,2025-09-17
+1,Olympiacos FC,Pafos FC,Rodinei,Costinha,61,2025-09-17
+1,Olympiacos FC,Pafos FC,D. García,C. Mouzakitis,46,2025-09-17
+1,Olympiacos FC,Pafos FC,G. Strefezza,M. Taremi,46,2025-09-17
+1,Pafos FC,Olympiacos FC,D. Luiz,K. Pileas,34,2025-09-17
+1,Pafos FC,Olympiacos FC,L. Dimata,M. Oršić,33,2025-09-17
+1,SK Slavia Praha,Bodø/Glimt,M. Sadílek,M. Cham-Saračević,90,2025-09-17
+1,SK Slavia Praha,Bodø/Glimt,V. Kušej,I. Schranz,90,2025-09-17
+1,Bodø/Glimt,SK Slavia Praha,M. Riisnaes,Unknown,90,2025-09-17
+1,Bodø/Glimt,SK Slavia Praha,H. Aleesami,V. Nielsen,85,2025-09-17
+1,SK Slavia Praha,Bodø/Glimt,T. Chorý,M. Chytil,77,2025-09-17
+1,SK Slavia Praha,Bodø/Glimt,Y. Mbodji,D. Hashioka,77,2025-09-17
+1,Bodø/Glimt,SK Slavia Praha,S. Auklend,S. Fet,74,2025-09-17
+1,Bodø/Glimt,SK Slavia Praha,K. Høgh,A. Helmersen,74,2025-09-17
+1,Bodø/Glimt,SK Slavia Praha,J. Gundersen,M. Riisnaes,65,2025-09-17
+1,Bodø/Glimt,SK Slavia Praha,M. Jørgensen,D. Bassi,46,2025-09-17
+1,SK Slavia Praha,Bodø/Glimt,T. Holeš,S. Chaloupek,18,2025-09-17
+1,Inter,AFC Ajax,M. Thuram,A. Bonny,87,2025-09-17
+1,Inter,AFC Ajax,H. Çalhanoğlu,P. Sučić,87,2025-09-17
+1,AFC Ajax,Inter,K. Itakura,J. Šutalo,84,2025-09-17
+1,Inter,AFC Ajax,F. Dimarco,C. Augusto,80,2025-09-17
+1,Inter,AFC Ajax,N. Barella,P. Zieliński,80,2025-09-17
+1,AFC Ajax,Inter,Y. Regeer,O. Gloukh,76,2025-09-17
+1,AFC Ajax,Inter,M. Godts,R. Moro,76,2025-09-17
+1,Inter,AFC Ajax,H. Mkhitaryan,D. Frattesi,69,2025-09-17
+1,AFC Ajax,Inter,W. Weghorst,K. Dolberg,63,2025-09-17
+1,AFC Ajax,Inter,K. Taylor,J. McConnell,63,2025-09-17
+1,FC Bayern München,Chelsea,H. Kane,N. Jackson,90,2025-09-17
+1,FC Bayern München,Chelsea,S. Gnabry,T. Bischof,90,2025-09-17
+1,Chelsea,FC Bayern München,E. Fernández,Estêvão,81,2025-09-17
+1,Chelsea,FC Bayern München,R. James,A. Santos,68,2025-09-17
+1,Chelsea,FC Bayern München,P. Neto,A. Garnacho,68,2025-09-17
+1,FC Bayern München,Chelsea,A. Pavlović,L. Goretzka,64,2025-09-17
+1,FC Bayern München,Chelsea,J. Stanišić,S. Boey,51,2025-09-17
+1,FC Bayern München,Chelsea,J. Tah,M. Kim,46,2025-09-17
+1,Liverpool,Atlético Madrid,A. Robertson,M. Kerkez,86,2025-09-17
+1,Atlético Madrid,Liverpool,N. González,Pubill,77,2025-09-17
+1,Liverpool,Atlético Madrid,F. Wirtz,R. Ngumoha,74,2025-09-17
+1,Atlético Madrid,Liverpool,C. Gallagher,N. Molina,61,2025-09-17
+1,Atlético Madrid,Liverpool,A. Griezmann,A. Sørloth,61,2025-09-17
+1,Liverpool,Atlético Madrid,C. Gakpo,A. Mac Allister,58,2025-09-17
+1,Liverpool,Atlético Madrid,A. Isak,H. Ekitiké,58,2025-09-17
+1,Liverpool,Atlético Madrid,J. Frimpong,C. Bradley,58,2025-09-17
+1,Atlético Madrid,Liverpool,G. Raspadori,Koke,53,2025-09-17
+1,Atalanta,Paris Saint-Germain,G. Scalvini,H. Ahanor,85,2025-09-17
+1,Atalanta,Paris Saint-Germain,Y. Musah,M. Brescianini,75,2025-09-17
+1,Paris Saint-Germain,Atalanta,K. Kvaratskhelia,I. Mbaye,75,2025-09-17
+1,Atalanta,Paris Saint-Germain,B. Djimsiti,G. Scalvini,75,2025-09-17
+1,Paris Saint-Germain,Atalanta,N. Mendes,I. Zabarnyi,75,2025-09-17
+1,Paris Saint-Germain,Atalanta,J. Neves,G. Ramos,58,2025-09-17
+1,Paris Saint-Germain,Atalanta,S. Mayulu,K. Lee,55,2025-09-17
+1,Paris Saint-Germain,Atalanta,F. Ruiz,W. Zaïre-Emery,55,2025-09-17
+1,Atalanta,Paris Saint-Germain,C. De Ketelaere,L. Samardžić,46,2025-09-17
+1,Atalanta,Paris Saint-Germain,D. Maldini,N. Krstović,46,2025-09-17
+1,Club Brugge KV,AS Monaco,R. Onyedika,L. Audoor,81,2025-09-18
+1,Club Brugge KV,AS Monaco,J. Ordóñez,J. Spileers,81,2025-09-18
+1,AS Monaco,Club Brugge KV,C. Mawissa,K. Ouattara,78,2025-09-18
+1,AS Monaco,Club Brugge KV,M. Biereth,G. Ilenikhena,63,2025-09-18
+1,AS Monaco,Club Brugge KV,F. Balogun,A. Fati,63,2025-09-18
+1,Club Brugge KV,AS Monaco,C. Forbs,M. Diakhon,61,2025-09-18
+1,Club Brugge KV,AS Monaco,B. Meijer,J. Seys,61,2025-09-18
+1,AS Monaco,Club Brugge KV,A. Bamba,M. Coulibaly,46,2025-09-18
+1,AS Monaco,Club Brugge KV,C. Henrique,T. Kehrer,46,2025-09-18
+1,Club Brugge KV,AS Monaco,S. Mignolet,N. Jackers,19,2025-09-18
+1,Bayer 04 Leverkusen,FC København,R. Andrich,C. Kofane,88,2025-09-18
+1,FC København,Bayer 04 Leverkusen,E. Achouri,Robert,79,2025-09-18
+1,FC København,Bayer 04 Leverkusen,J. Larsson,Y. Zague,79,2025-09-18
+1,FC København,Bayer 04 Leverkusen,Y. Moukoko,V. Claesson,69,2025-09-18
+1,Bayer 04 Leverkusen,FC København,L. Badé,C. Echeverri,67,2025-09-18
+1,Bayer 04 Leverkusen,FC København,E. Ben Seghir,E. Poku,67,2025-09-18
+1,FC København,Bayer 04 Leverkusen,T. Delaney,M. E. Madsen,55,2025-09-18
+1,Bayer 04 Leverkusen,FC København,E. Fernández,A. García,51,2025-09-18
+1,Bayer 04 Leverkusen,FC København,M. Tillman,I. Maza,51,2025-09-18
+1,Eintracht Frankfurt,Galatasaray,R. Doan,M. Batshuayi,84,2025-09-18
+1,Eintracht Frankfurt,Galatasaray,R. Koch,A. Amenda,80,2025-09-18
+1,Eintracht Frankfurt,Galatasaray,H. Larsson,E. Skhiri,80,2025-09-18
+1,Galatasaray,Eintracht Frankfurt,Y. Akgün,K. Ayhan,78,2025-09-18
+1,Eintracht Frankfurt,Galatasaray,C. Uzun,J. Bahoya,72,2025-09-18
+1,Eintracht Frankfurt,Galatasaray,J. Burkardt,E. Wahi,72,2025-09-18
+1,Galatasaray,Eintracht Frankfurt,L. Sane,A. Kutucu,67,2025-09-18
+1,Galatasaray,Eintracht Frankfurt,E. Elmalı,I. Jakobs,67,2025-09-18
+1,Galatasaray,Eintracht Frankfurt,I. Gundogan,G. Sara,67,2025-09-18
+1,Galatasaray,Eintracht Frankfurt,M. Lemina,M. Icardi,55,2025-09-18
+1,Manchester City,Napoli,E. Haaland,O. Bobb,80,2025-09-18
+1,Manchester City,Napoli,J. Gvardiol,N. Ake,80,2025-09-18
+1,Manchester City,Napoli,T. Reijnders,R. Lewis,80,2025-09-18
+1,Napoli,Manchester City,S. Lobotka,B. Gilmour,72,2025-09-18
+1,Napoli,Manchester City,R. Højlund,D. Neres,72,2025-09-18
+1,Napoli,Manchester City,F. Anguissa,E. Elmas,71,2025-09-18
+1,Manchester City,Napoli,J. Doku,Savinho,69,2025-09-18
+1,Manchester City,Napoli,Rodri,N. González,60,2025-09-18
+1,Napoli,Manchester City,M. Politano,J. Jesus,55,2025-09-18
+1,Napoli,Manchester City,K. De Bruyne,M. Olivera,26,2025-09-18
+1,FC Barcelona,Newcastle United,F. López,M. Casadó,90,2025-09-18
+1,FC Barcelona,Newcastle United,M. Rashford,D. Olmo,82,2025-09-18
+1,FC Barcelona,Newcastle United,G. Martín,E. García,81,2025-09-18
+1,Newcastle United,FC Barcelona,K. Trippier,S. Botman,76,2025-09-18
+1,FC Barcelona,Newcastle United,R. Lewandowski,A. Christensen,70,2025-09-18
+1,FC Barcelona,Newcastle United,P. Cubarsí,F. Torres,69,2025-09-18
+1,Newcastle United,FC Barcelona,A. Elanga,J. Murphy,63,2025-09-18
+1,Newcastle United,FC Barcelona,F. Schär,M. Thiaw,63,2025-09-18
+1,Newcastle United,FC Barcelona,Joelinton,J. Willock,62,2025-09-18
+1,Newcastle United,FC Barcelona,H. Barnes,N. Woltemade,62,2025-09-18
+1,Kairat Almaty,Sporting CP,A. Mrynskiy,Ricardinho,81,2025-09-18
+1,Kairat Almaty,Sporting CP,L. Mata,L. Kurgin,80,2025-09-18
+1,Kairat Almaty,Sporting CP,D. Kasabulat,A. Sadybekov,75,2025-09-18
+1,Kairat Almaty,Sporting CP,E. Tapalov,J. Stanojev,70,2025-09-18
+1,Kairat Almaty,Sporting CP,O. Arad,Edmilson,70,2025-09-18
+1,Sporting CP,Kairat Almaty,M. Hjulmand,Z. Debast,70,2025-09-18
+1,Sporting CP,Kairat Almaty,M. Araújo,M. Reis,66,2025-09-18
+1,Sporting CP,Kairat Almaty,L. J. Suárez ,F. Ioannidis,61,2025-09-18
+1,Sporting CP,Kairat Almaty,G. Kochorashvili,H. Morita,61,2025-09-18
+1,Sporting CP,Kairat Almaty,P. Gonçalves,A. Santos,61,2025-09-18
+2,Club Brugge KV,Atalanta,J. Ordóñez,Z. Romero,89,2025-09-30
+2,Atalanta,Club Brugge KV,N. Krstović,M. Brescianini,88,2025-09-30
+2,Club Brugge KV,Atalanta,K. Sabbe,B. Meijer,88,2025-09-30
+2,Club Brugge KV,Atalanta,C. Sandra,S. Campbell,88,2025-09-30
+2,Club Brugge KV,Atalanta,C. Forbs,H. Vetlesen,75,2025-09-30
+2,Club Brugge KV,Atalanta,N. Tresoldi,R. Vermant,63,2025-09-30
+2,Atalanta,Club Brugge KV,A. Lookman,K. Sulemana,61,2025-09-30
+2,Atalanta,Club Brugge KV,Éderson,L. Samardžić,61,2025-09-30
+2,Atalanta,Club Brugge KV,O. Kossounou,Y. Musah,53,2025-09-30
+2,Atalanta,Club Brugge KV,R. Bellanova,D. Zappacosta,46,2025-09-30
+2,Real Madrid,Kairat Almaty,K. Mbappé,G. García,81,2025-09-30
+2,Real Madrid,Kairat Almaty,A. Tchouaméni,E. Camavinga,80,2025-09-30
+2,Real Madrid,Kairat Almaty,A. Güler,J. Bellingham,80,2025-09-30
+2,Kairat Almaty,Real Madrid,D. Satpayev,Ricardinho,80,2025-09-30
+2,Kairat Almaty,Real Madrid,V. Gromyko,G. Zaria,80,2025-09-30
+2,Real Madrid,Kairat Almaty,Vinícius Jr.,B. Díaz,70,2025-09-30
+2,Real Madrid,Kairat Almaty,F. Mastantuono,Rodrygo,70,2025-09-30
+2,Kairat Almaty,Real Madrid,J. G. C. Monteiro,Edmilson,65,2025-09-30
+2,Kairat Almaty,Real Madrid,E. Tapalov,J. Stanojev,65,2025-09-30
+2,Kairat Almaty,Real Madrid,O. Arad,O. Baibek,64,2025-09-30
+2,Atlético Madrid,Eintracht Frankfurt,A. Griezmann,C. Martín,90,2025-09-30
+2,Atlético Madrid,Eintracht Frankfurt,J. Álvarez,A. Baena,90,2025-09-30
+2,Atlético Madrid,Eintracht Frankfurt,G. Simeone,N. Molina,75,2025-09-30
+2,Atlético Madrid,Eintracht Frankfurt,P. Barrios,N. González,75,2025-09-30
+2,Eintracht Frankfurt,Atlético Madrid,R. Doan,M. Götze,74,2025-09-30
+2,Eintracht Frankfurt,Atlético Madrid,N. Brown,J. Bahoya,71,2025-09-30
+2,Eintracht Frankfurt,Atlético Madrid,N. Collins,A. Amenda,58,2025-09-30
+2,Eintracht Frankfurt,Atlético Madrid,C. Uzun,H. Larsson,58,2025-09-30
+2,Eintracht Frankfurt,Atlético Madrid,E. Skhiri,O. Højlund,58,2025-09-30
+2,Atlético Madrid,Eintracht Frankfurt,G. Raspadori,Koke,55,2025-09-30
+2,Bodø/Glimt,Tottenham Hotspur,H. Aleesami,A. Klynge,90,2025-09-30
+2,Bodø/Glimt,Tottenham Hotspur,H. Evjen,J. Gundersen,87,2025-09-30
+2,Tottenham Hotspur,Bodø/Glimt,R. Bentancur,A. Gray,82,2025-09-30
+2,Tottenham Hotspur,Bodø/Glimt,D. Spence,D. Udogie,82,2025-09-30
+2,Bodø/Glimt,Tottenham Hotspur,S. Auklend,O. D. Blomberg,80,2025-09-30
+2,Bodø/Glimt,Tottenham Hotspur,K. Høgh,A. Helmersen,80,2025-09-30
+2,Tottenham Hotspur,Bodø/Glimt,P. M. Sarr,J. Palhinha,69,2025-09-30
+2,Tottenham Hotspur,Bodø/Glimt,L. Bergvall,M. Kudus,60,2025-09-30
+2,Tottenham Hotspur,Bodø/Glimt,B. Johnson,X. Simons,60,2025-09-30
+2,Benfica,Chelsea,F. Aursnes,H. Araújo,89,2025-09-30
+2,Chelsea,Benfica,B. Badiashile,J. Acheampong,81,2025-09-30
+2,Chelsea,Benfica,M. Gusto,R. James,81,2025-09-30
+2,Benfica,Chelsea,R. Ríos,L. Barreiro,77,2025-09-30
+2,Benfica,Chelsea,G. Sudakov,F. Ivanović,77,2025-09-30
+2,Benfica,Chelsea,D. Lukebakio,A. Schjelderup,77,2025-09-30
+2,Benfica,Chelsea,A. Silva,T. Araújo,73,2025-09-30
+2,Chelsea,Benfica,A. Garnacho,J. Gittens,61,2025-09-30
+2,Chelsea,Benfica,T. George,J. Pedro,61,2025-09-30
+2,Chelsea,Benfica,F. Buonanotte,Estêvão,54,2025-09-30
+2,Galatasaray,Liverpool,B. A. Yılmaz,E. Elmalı,85,2025-09-30
+2,Galatasaray,Liverpool,I. Gundogan,G. Sara,75,2025-09-30
+2,Galatasaray,Liverpool,Y. Akgün,R. Sallai,72,2025-09-30
+2,Galatasaray,Liverpool,V. Osimhen,M. Icardi,72,2025-09-30
+2,Liverpool,Galatasaray,H. Ekitiké,A. Mac Allister,68,2025-09-30
+2,Liverpool,Galatasaray,J. Frimpong,C. Bradley,62,2025-09-30
+2,Liverpool,Galatasaray,R. Gravenberch,A. Isak,62,2025-09-30
+2,Liverpool,Galatasaray,C. Gakpo,M. Salah,62,2025-09-30
+2,Liverpool,Galatasaray,Alisson,G. Mamardashvili,56,2025-09-30
+2,SK Slavia Praha,Inter,D. Hashioka,M. Chytil,83,2025-09-30
+2,Inter,SK Slavia Praha,D. Dumfries,M. Darmian,76,2025-09-30
+2,SK Slavia Praha,Inter,L. Provod,M. Cham-Saračević,71,2025-09-30
+2,Inter,SK Slavia Praha,P. Zieliński,N. Barella,67,2025-09-30
+2,Inter,SK Slavia Praha,Y. Bisseck,M. Akanji,67,2025-09-30
+2,Inter,SK Slavia Praha,L. Martínez,F. P. Esposito,67,2025-09-30
+2,Inter,SK Slavia Praha,M. Thuram,A. Bonny,66,2025-09-30
+2,SK Slavia Praha,Inter,D. Doudera,Y. Mbodji,49,2025-09-30
+2,SK Slavia Praha,Inter,M. Sadílek,I. Schranz,46,2025-09-30
+2,SK Slavia Praha,Inter,V. Kušej,T. Chorý,46,2025-09-30
+2,AFC Ajax,Olympique de Marseille,M. Godts,R. Moro,84,2025-09-30
+2,Olympique de Marseille,AFC Ajax,A. Vermeeren,A. Murillo,82,2025-09-30
+2,Olympique de Marseille,AFC Ajax,I. Paixão,A. Gomes,62,2025-09-30
+2,Olympique de Marseille,AFC Ajax,M. O'Riley,P. Højbjerg,62,2025-09-30
+2,AFC Ajax,Olympique de Marseille,Y. Baas,J. Šutalo,55,2025-09-30
+2,AFC Ajax,Olympique de Marseille,O. Wijndal,A. Gaaei,55,2025-09-30
+2,AFC Ajax,Olympique de Marseille,S. Berghuis,O. Edvardsen,46,2025-09-30
+2,Olympique de Marseille,AFC Ajax,B. Nadir,T. Weah,46,2025-09-30
+2,Olympique de Marseille,AFC Ajax,F. Medina,C. Egan-Riley,36,2025-09-30
+2,AFC Ajax,Olympique de Marseille,Y. Regeer,J. Mokio,23,2025-09-30
+2,FC Bayern München,Pafos FC,K. Laimer,T. Bischof,83,2025-09-30
+2,Pafos FC,FC Bayern München,K. Pileas,K. Sema,79,2025-09-30
+2,FC Bayern München,Pafos FC,M. Olise,L. Karl,73,2025-09-30
+2,FC Bayern München,Pafos FC,D. Upamecano,J. Tah,73,2025-09-30
+2,Pafos FC,FC Bayern München,V. Dragomir,D. Quina,66,2025-09-30
+2,FC Bayern München,Pafos FC,H. Kane,S. Boey,64,2025-09-30
+2,Pafos FC,FC Bayern München,D. Luiz,B. Langa,59,2025-09-30
+2,Pafos FC,FC Bayern München,A. Silva,M. Bassouamina,59,2025-09-30
+2,Pafos FC,FC Bayern München,Jajá,L. Dimata,59,2025-09-30
+2,FC Bayern München,Pafos FC,L. Díaz,S. Gnabry,46,2025-09-30
+2,Qarabağ FK,FC København,A. Zoubir,C. Kouakou,90,2025-10-01
+2,Qarabağ FK,FC København,E. Cafarquliyev,M. Qurbanlı,90,2025-10-01
+2,FC København,Qarabağ FK,T. Delaney,M. E. Madsen,78,2025-10-01
+2,Qarabağ FK,FC København,C. Durán,N. Akhundzade,78,2025-10-01
+2,Qarabağ FK,FC København,L. Andrade,T. Bayramov,78,2025-10-01
+2,Qarabağ FK,FC København,O. Kashchuk,E. Addai,70,2025-10-01
+2,FC København,Qarabağ FK,P. Hatzidiakos,E. Achouri,69,2025-10-01
+2,FC København,Qarabağ FK,Y. Moukoko,V. Claesson,46,2025-10-01
+2,FC København,Qarabağ FK,Robert,J. Suzuki,46,2025-10-01
+2,FC København,Qarabağ FK,R. Huescas,Y. Zague,15,2025-10-01
+2,Newcastle United,Royale Union Saint-Gilloise,K. Trippier,F. Schär,83,2025-10-01
+2,Royale Union Saint-Gilloise,Newcastle United,A. Khalaili,L. Patris,78,2025-10-01
+2,Royale Union Saint-Gilloise,Newcastle United,K. Rodríguez,S. Boufal,73,2025-10-01
+2,Newcastle United,Royale Union Saint-Gilloise,A. Elanga,H. Barnes,73,2025-10-01
+2,Newcastle United,Royale Union Saint-Gilloise,B. Guimarães,L. Hall,73,2025-10-01
+2,Newcastle United,Royale Union Saint-Gilloise,N. Woltemade,W. Osula,73,2025-10-01
+2,Royale Union Saint-Gilloise,Newcastle United,K. Mac Allister,R. Sykes,67,2025-10-01
+2,Royale Union Saint-Gilloise,Newcastle United,K. V. D. Perre,M. Rasmussen,67,2025-10-01
+2,Newcastle United,Royale Union Saint-Gilloise,Joelinton,L. Miley,59,2025-10-01
+2,Royale Union Saint-Gilloise,Newcastle United,P. David,M. Giger,46,2025-10-01
+2,AS Monaco,Manchester City,M. Salisu,G. Ilenikhena,83,2025-10-01
+2,AS Monaco,Manchester City,F. Balogun,M. Biereth,82,2025-10-01
+2,AS Monaco,Manchester City,M. Coulibaly,P. Cabral,82,2025-10-01
+2,Manchester City,AS Monaco,J. Stones,M. Nunes,73,2025-10-01
+2,AS Monaco,Manchester City,A. Fati,S. I. Muzambo,64,2025-10-01
+2,Manchester City,AS Monaco,Rodri,N. González,61,2025-10-01
+2,Manchester City,AS Monaco,J. Doku,Savinho,61,2025-10-01
+2,AS Monaco,Manchester City,Vanderson,K. Ouattara,22,2025-10-01
+2,Olympiacos FC,Arsenal,T. Retsos,G. Biancone,86,2025-10-01
+2,Olympiacos FC,Arsenal,Chiquinho,G. Strefezza,86,2025-10-01
+2,Olympiacos FC,Arsenal,S. Hezze,C. Mouzakitis,86,2025-10-01
+2,Olympiacos FC,Arsenal,D. Garcia,L. Scipioni,75,2025-10-01
+2,Arsenal,Olympiacos FC,Gabriel,C. Mosquera,75,2025-10-01
+2,Arsenal,Olympiacos FC,L. Trossard,B. Saka,73,2025-10-01
+2,Arsenal,Olympiacos FC,G. Martinelli,E. Eze,73,2025-10-01
+2,Olympiacos FC,Arsenal,G. Martins,M. Taremi,62,2025-10-01
+2,Arsenal,Olympiacos FC,B. White,J. Timber,58,2025-10-01
+2,Arsenal,Olympiacos FC,M. Merino,D. Rice,58,2025-10-01
+2,Bayer 04 Leverkusen,PSV Eindhoven,M. Tillman,I. Maza,80,2025-10-01
+2,Bayer 04 Leverkusen,PSV Eindhoven,C. Kofane,C. Echeverri,80,2025-10-01
+2,Bayer 04 Leverkusen,PSV Eindhoven,E. Poku,E. Ben Seghir,73,2025-10-01
+2,PSV Eindhoven,Bayer 04 Leverkusen,D. Man,E. Bajraktarević,73,2025-10-01
+2,PSV Eindhoven,Bayer 04 Leverkusen,I. Perisic,C. Driouech,73,2025-10-01
+2,PSV Eindhoven,Bayer 04 Leverkusen,A. Obispo,R. Flamingo,66,2025-10-01
+2,Bayer 04 Leverkusen,PSV Eindhoven,A. Tape,Arthur,42,2025-10-01
+2,Borussia Dortmund,Athletic Club,S. Guirassy,F. Silva,87,2025-10-01
+2,Athletic Club,Borussia Dortmund,M. Sannadi,I. Sánchez,80,2025-10-01
+2,Borussia Dortmund,Athletic Club,N. Süle,N. Schlotterbeck,70,2025-10-01
+2,Borussia Dortmund,Athletic Club,J. Bellingham,F. Nmecha,69,2025-10-01
+2,Athletic Club,Borussia Dortmund,U. Gómez,N. Serrano,63,2025-10-01
+2,Borussia Dortmund,Athletic Club,K. Adeyemi,M. Beier,63,2025-10-01
+2,Borussia Dortmund,Athletic Club,C. Chukwuemeka,J. Brandt,63,2025-10-01
+2,Athletic Club,Borussia Dortmund,D. Vivian,A. Laporte,46,2025-10-01
+2,Athletic Club,Borussia Dortmund,M. Jauregizar,I. R. d. Galarreta,46,2025-10-01
+2,Athletic Club,Borussia Dortmund,I. Williams,G. Guruzeta,46,2025-10-01
+2,FC Barcelona,Paris Saint-Germain,E. García,A. Christensen,86,2025-10-01
+2,Paris Saint-Germain,FC Barcelona,S. Mayulu,K. Lee,80,2025-10-01
+2,Paris Saint-Germain,FC Barcelona,B. Barcola,Q. Ndjantou,80,2025-10-01
+2,FC Barcelona,Paris Saint-Germain,Pedri,M. Bernal,79,2025-10-01
+2,Paris Saint-Germain,FC Barcelona,F. Ruiz,G. Ramos,72,2025-10-01
+2,FC Barcelona,Paris Saint-Germain,G. Martín,A. Balde,72,2025-10-01
+2,FC Barcelona,Paris Saint-Germain,D. Olmo,M. Casadó,72,2025-10-01
+2,FC Barcelona,Paris Saint-Germain,M. Rashford,R. Lewandowski,72,2025-10-01
+2,Paris Saint-Germain,FC Barcelona,I. Mbaye,L. Hernández,65,2025-10-01
+2,Napoli,Sporting CP,R. Højlund,L. Lucca,90,2025-10-01
+2,Napoli,Sporting CP,K. De Bruyne,B. Gilmour,81,2025-10-01
+2,Napoli,Sporting CP,M. Gutiérrez,M. Olivera,81,2025-10-01
+2,Sporting CP,Napoli,J. Simões,H. Morita,78,2025-10-01
+2,Napoli,Sporting CP,S. McTominay,N. Lang,69,2025-10-01
+2,Napoli,Sporting CP,M. Politano,D. Neres,69,2025-10-01
+2,Sporting CP,Napoli,F. Ioannidis,A. Santos,67,2025-10-01
+2,Sporting CP,Napoli,E. Quaresma,Z. Debast,67,2025-10-01
+2,Sporting CP,Napoli,G. Catamo,L. J. Suárez ,46,2025-10-01
+2,Sporting CP,Napoli,F. Trincão,P. Gonçalves,46,2025-10-01
+2,Juventus,Villarreal,J. David,D. Vlahović,86,2025-10-01
+2,Juventus,Villarreal,K. Yıldız,V. Adžić,80,2025-10-01
+2,Juventus,Villarreal,A. Cambiaso,D. Rugani,79,2025-10-01
+2,Villarreal,Juventus,G. Mikautadze,I. Akhomach,76,2025-10-01
+2,Villarreal,Juventus,A. Pedraza,S. Cardona,76,2025-10-01
+2,Villarreal,Juventus,D. Parejo,T. Oluwaseyi,64,2025-10-01
+2,Villarreal,Juventus,T. Buchanan,A. Moleiro,64,2025-10-01
+2,Juventus,Villarreal,T. Koopmeiners,F. Conceição,46,2025-10-01
+2,Juventus,Villarreal,J. Cabal,J. Mário,16,2025-10-01
+3,FC Barcelona,Olympiacos FC,Pedri,M. Bernal,80,2025-10-21
+3,Olympiacos FC,FC Barcelona,A. E. Kaabi,M. Taremi,78,2025-10-21
+3,Olympiacos FC,FC Barcelona,D. Podence,R. Yaremchuk,78,2025-10-21
+3,FC Barcelona,Olympiacos FC,L. Yamal,R. Bardghji,75,2025-10-21
+3,FC Barcelona,Olympiacos FC,A. Balde,G. Martín,75,2025-10-21
+3,FC Barcelona,Olympiacos FC,J. Koundé,R. Araújo,75,2025-10-21
+3,FC Barcelona,Olympiacos FC,D. Fernández,F. de Jong,59,2025-10-21
+3,Olympiacos FC,FC Barcelona,F. Ortega,B. Onyemaechi,53,2025-10-21
+3,Olympiacos FC,FC Barcelona,G. Martins,C. Mouzakitis,46,2025-10-21
+3,Olympiacos FC,FC Barcelona,Chiquinho,D. Nascimento,31,2025-10-21
+3,Kairat Almaty,Pafos FC,O. Arad,Ricardinho,90,2025-10-21
+3,Pafos FC,Kairat Almaty,Bruno,B. Langa,90,2025-10-21
+3,Kairat Almaty,Pafos FC,V. Gromyko,D. Kasabulat,89,2025-10-21
+3,Pafos FC,Kairat Almaty,M. Orsic,K. Sema,79,2025-10-21
+3,Pafos FC,Kairat Almaty,Pêpê,L. Dimata,79,2025-10-21
+3,Pafos FC,Kairat Almaty,D. Quina,M. Bassouamina,66,2025-10-21
+3,Pafos FC,Kairat Almaty,K. Pileas,D. Goldar,66,2025-10-21
+3,Kairat Almaty,Pafos FC,D. Glazer,G. Zaria,61,2025-10-21
+3,Kairat Almaty,Pafos FC,E. Tapalov,A. Tuyakbayev,46,2025-10-21
+3,Arsenal,Atlético Madrid,J. Timber,B. White,83,2025-10-21
+3,Arsenal,Atlético Madrid,V. Gyökeres,M. Merino,83,2025-10-21
+3,Arsenal,Atlético Madrid,M. Zubimendi,C. Nørgaard,73,2025-10-21
+3,Arsenal,Atlético Madrid,E. Eze,E. Nwaneri,73,2025-10-21
+3,Arsenal,Atlético Madrid,Gabriel,C. Mosquera,72,2025-10-21
+3,Atlético Madrid,Arsenal,G. Simeone,A. Griezmann,72,2025-10-21
+3,Atlético Madrid,Arsenal,A. Sørloth,T. Almada,72,2025-10-21
+3,Atlético Madrid,Arsenal,N. González,M. Ruggeri,63,2025-10-21
+3,Atlético Madrid,Arsenal,J. M. Giménez,A. Baena,63,2025-10-21
+3,Atlético Madrid,Arsenal,Koke,C. Gallagher,63,2025-10-21
+3,Bayer 04 Leverkusen,Paris Saint-Germain,E. Fernández,J. Mensah,81,2025-10-21
+3,Paris Saint-Germain,Bayer 04 Leverkusen,W. Zaïre-Emery,Q. Ndjantou,76,2025-10-21
+3,Paris Saint-Germain,Bayer 04 Leverkusen,B. Barcola,I. Mbaye,72,2025-10-21
+3,Bayer 04 Leverkusen,Paris Saint-Germain,E. Poku,E. Ben Seghir,64,2025-10-21
+3,Paris Saint-Germain,Bayer 04 Leverkusen,S. Mayulu,K. Lee,63,2025-10-21
+3,Paris Saint-Germain,Bayer 04 Leverkusen,K. Kvaratskhelia,O. Dembélé,63,2025-10-21
+3,Bayer 04 Leverkusen,Paris Saint-Germain,C. Kofane,J. Belocian,52,2025-10-21
+3,Paris Saint-Germain,Bayer 04 Leverkusen,D. Doué,L. Hernández,46,2025-10-21
+3,Bayer 04 Leverkusen,Paris Saint-Germain,C. Echeverri,I. Maza,46,2025-10-21
+3,Borussia Dortmund,FC København,R. Bensebaini,A. Anselmino,85,2025-10-21
+3,FC København,Borussia Dortmund,E. Achouri,M. E. Madsen,81,2025-10-21
+3,FC København,Borussia Dortmund,W. Clem,Y. Zague,81,2025-10-21
+3,Borussia Dortmund,FC København,F. Nmecha,M. Sabitzer,77,2025-10-21
+3,FC København,Borussia Dortmund,P. Hatzidiakos,M. Garananga,75,2025-10-21
+3,FC København,Borussia Dortmund,J. Larsson,V. B. Dadason,75,2025-10-21
+3,FC København,Borussia Dortmund,B. Meling,M. López,63,2025-10-21
+3,Borussia Dortmund,FC København,Y. Couto,J. Ryerson,63,2025-10-21
+3,Borussia Dortmund,FC København,M. Beier,F. Silva,63,2025-10-21
+3,Borussia Dortmund,FC København,J. Brandt,C. Chukwuemeka,62,2025-10-21
+3,Newcastle United,Benfica,B. Guimarães,J. Willock,90,2025-10-21
+3,Newcastle United,Benfica,N. Woltemade,W. Osula,85,2025-10-21
+3,Newcastle United,Benfica,A. Gordon,A. Elanga,85,2025-10-21
+3,Benfica,Newcastle United,A. Dedić,F. Ivanović,63,2025-10-21
+3,Newcastle United,Benfica,J. Ramsey,Joelinton,63,2025-10-21
+3,Newcastle United,Benfica,J. Murphy,H. Barnes,63,2025-10-21
+3,PSV Eindhoven,Napoli,I. Saibari,P. Wanner,88,2025-10-21
+3,Napoli,PSV Eindhoven,K. De Bruyne,E. Elmas,84,2025-10-21
+3,PSV Eindhoven,Napoli,G. Til,R. Pepi,84,2025-10-21
+3,PSV Eindhoven,Napoli,A. Salah-Eddine,S. Dest,84,2025-10-21
+3,PSV Eindhoven,Napoli,I. Perisic,C. Driouech,84,2025-10-21
+3,Napoli,PSV Eindhoven,M. Politano,D. Neres,73,2025-10-21
+3,Napoli,PSV Eindhoven,B. Gilmour,N. Lang,58,2025-10-21
+3,Napoli,PSV Eindhoven,S. Beukema,J. Jesus,57,2025-10-21
+3,Napoli,PSV Eindhoven,L. Spinazzola,M. Gutiérrez,57,2025-10-21
+3,PSV Eindhoven,Napoli,Y. Gasiorowski,A. Obispo,46,2025-10-21
+3,Royale Union Saint-Gilloise,Inter,A. Zorgane,R. Schoofs,84,2025-10-21
+3,Inter,Royale Union Saint-Gilloise,D. Dumfries,L. Henrique,77,2025-10-21
+3,Royale Union Saint-Gilloise,Inter,O. Niang,L. Patris,75,2025-10-21
+3,Royale Union Saint-Gilloise,Inter,A. A. E. Hadj,R. Florucz,61,2025-10-21
+3,Royale Union Saint-Gilloise,Inter,P. David,K. Rodríguez,61,2025-10-21
+3,Royale Union Saint-Gilloise,Inter,M. Rasmussen,M. Giger,61,2025-10-21
+3,Inter,Royale Union Saint-Gilloise,H. Calhanoglu,P. Sučić,59,2025-10-21
+3,Inter,Royale Union Saint-Gilloise,A. Bastoni,F. Dimarco,59,2025-10-21
+3,Inter,Royale Union Saint-Gilloise,L. Martínez,A. Bonny,59,2025-10-21
+3,Inter,Royale Union Saint-Gilloise,S. de Vrij,M. Akanji,46,2025-10-21
+3,Manchester City,Villarreal,E. Haaland,R. Cherki,86,2025-10-21
+3,Manchester City,Villarreal,Savinho,O. Marmoush,86,2025-10-21
+3,Villarreal,Manchester City,P. Gueye,D. Parejo,81,2025-10-21
+3,Manchester City,Villarreal,R. Lewis,T. Reijnders,73,2025-10-21
+3,Manchester City,Villarreal,J. Doku,O. Bobb,72,2025-10-21
+3,Villarreal,Manchester City,S. Comesaña,A. Pérez,72,2025-10-21
+3,Villarreal,Manchester City,G. Mikautadze,T. Oluwaseyi,66,2025-10-21
+3,Villarreal,Manchester City,T. Buchanan,A. Moleiro,66,2025-10-21
+3,Manchester City,Villarreal,N. González,M. Kovačić,57,2025-10-21
+3,Villarreal,Manchester City,A. Pedraza,S. Cardona,46,2025-10-21
+3,Athletic Club,Qarabağ FK,O. Sancet,M. Vesga,81,2025-10-22
+3,Qarabağ FK,Athletic Club,M. Silva,Dani Bolt,79,2025-10-22
+3,Qarabağ FK,Athletic Club,C. Durán,O. Kashchuk,67,2025-10-22
+3,Qarabağ FK,Athletic Club,N. Akhundzade,T. Bayramov,67,2025-10-22
+3,Athletic Club,Qarabağ FK,N. Williams,R. Navarro,65,2025-10-22
+3,Athletic Club,Qarabağ FK,A. R. Mora,I. De Galarreta,65,2025-10-22
+3,Athletic Club,Qarabağ FK,A. Gorosabel,J. Areso,65,2025-10-22
+3,Qarabağ FK,Athletic Club,L. Andrade,E. Addai,56,2025-10-22
+3,Qarabağ FK,Athletic Club,P. Bicalho,M. Jankovic,56,2025-10-22
+3,Athletic Club,Qarabağ FK,I. Williams,Á. Berenguer,38,2025-10-22
+3,Galatasaray,Bodø/Glimt,L. Torreira,B. Kutlu,88,2025-10-22
+3,Bodø/Glimt,Galatasaray,H. Evjen,A. Klynge,88,2025-10-22
+3,Bodø/Glimt,Galatasaray,F. A. Bjørkan,I. D. Määttä,81,2025-10-22
+3,Galatasaray,Bodø/Glimt,Y. Akgün,K. Ayhan,73,2025-10-22
+3,Galatasaray,Bodø/Glimt,V. Osimhen,M. Icardi,73,2025-10-22
+3,Bodø/Glimt,Galatasaray,H. Aleesami,V. Nielsen,69,2025-10-22
+3,Bodø/Glimt,Galatasaray,K. Høgh,A. Helmersen,69,2025-10-22
+3,Bodø/Glimt,Galatasaray,S. Fet,D. Bassi,69,2025-10-22
+3,Galatasaray,Bodø/Glimt,M. Lemina,G. Sara,65,2025-10-22
+3,Galatasaray,Bodø/Glimt,B. A. Yılmaz,E. Elmalı,65,2025-10-22
+3,AS Monaco,Tottenham Hotspur,F. Balogun,M. Biereth,83,2025-10-22
+3,Tottenham Hotspur,AS Monaco,M. Kudus,D. Spence,79,2025-10-22
+3,AS Monaco,Tottenham Hotspur,K. Ouattara,C. Mawissa,70,2025-10-22
+3,AS Monaco,Tottenham Hotspur,A. Fati,T. Minamino,70,2025-10-22
+3,Tottenham Hotspur,AS Monaco,Richarlison,R. K. Muani,70,2025-10-22
+3,Tottenham Hotspur,AS Monaco,W. Odobert,B. Johnson,69,2025-10-22
+3,Tottenham Hotspur,AS Monaco,R. Bentancur,P. M. Sarr,60,2025-10-22
+3,Tottenham Hotspur,AS Monaco,L. Bergvall,X. Simons,60,2025-10-22
+3,AS Monaco,Tottenham Hotspur,K. Diatta,A. Golovin,57,2025-10-22
+3,Atalanta,SK Slavia Praha,C. De Ketelaere,L. Samardžić,90,2025-10-22
+3,SK Slavia Praha,Atalanta,V. Kušej,E. Prekop,88,2025-10-22
+3,SK Slavia Praha,Atalanta,T. Vlček,Y. Sanyang,88,2025-10-22
+3,Atalanta,SK Slavia Praha,D. Zappacosta,R. Bellanova,74,2025-10-22
+3,SK Slavia Praha,Atalanta,D. Moses,S. Chaloupek,68,2025-10-22
+3,Atalanta,SK Slavia Praha,A. Lookman,K. Sulemana,62,2025-10-22
+3,Atalanta,SK Slavia Praha,N. Krstović,G. Scamacca,62,2025-10-22
+3,SK Slavia Praha,Atalanta,Y. Mbodji,M. Sadílek,61,2025-10-22
+3,Atalanta,SK Slavia Praha,L. Bernasconi,N. Zalewski,46,2025-10-22
+3,AFC Ajax,Chelsea,L. Rosa,A. Gaaei,84,2025-10-22
+3,AFC Ajax,Chelsea,M. Godts,K. Fitz-Jim,84,2025-10-22
+3,AFC Ajax,Chelsea,J. McConnell,Y. Regeer,79,2025-10-22
+3,Chelsea,AFC Ajax,R. Lavia,R. Walsh,66,2025-10-22
+3,Chelsea,AFC Ajax,M. Caicedo,J. Acheampong,49,2025-10-22
+3,Chelsea,AFC Ajax,T. Adarabioyo,T. Chalobah,46,2025-10-22
+3,Chelsea,AFC Ajax,M. Guiu,T. George,46,2025-10-22
+3,Chelsea,AFC Ajax,E. Fernández,A. Santos,46,2025-10-22
+3,AFC Ajax,Chelsea,W. Weghorst,D. Klaassen,46,2025-10-22
+3,AFC Ajax,Chelsea,O. Gloukh,J. Mokio,23,2025-10-22
+3,Eintracht Frankfurt,Liverpool,A. Knauff,E. Skhiri,76,2025-10-22
+3,Liverpool,Eintracht Frankfurt,I. Konaté,J. Gomez,75,2025-10-22
+3,Liverpool,Eintracht Frankfurt,H. Ekitiké,M. Salah,74,2025-10-22
+3,Liverpool,Eintracht Frankfurt,C. Gakpo,A. Mac Allister,74,2025-10-22
+3,Eintracht Frankfurt,Liverpool,M. Götze,F. Chaïbi,65,2025-10-22
+3,Eintracht Frankfurt,Liverpool,R. Doan,C. Uzun,64,2025-10-22
+3,Eintracht Frankfurt,Liverpool,R. Kristensen,N. Collins,59,2025-10-22
+3,Eintracht Frankfurt,Liverpool,J. Bahoya,J. Burkardt,59,2025-10-22
+3,Liverpool,Eintracht Frankfurt,A. Isak,F. Chiesa,46,2025-10-22
+3,Liverpool,Eintracht Frankfurt,J. Frimpong,C. Bradley,19,2025-10-22
+3,FC Bayern München,Club Brugge KV,D. Upamecano,M. Kim,81,2025-10-22
+3,FC Bayern München,Club Brugge KV,L. Díaz,W. Mike,81,2025-10-22
+3,Club Brugge KV,FC Bayern München,C. Tzolis,M. Diakhon,80,2025-10-22
+3,FC Bayern München,Club Brugge KV,H. Kane,N. Jackson,69,2025-10-22
+3,FC Bayern München,Club Brugge KV,R. Guerreiro,T. Bischof,69,2025-10-22
+3,FC Bayern München,Club Brugge KV,L. Karl,L. Goretzka,69,2025-10-22
+3,Club Brugge KV,FC Bayern München,N. Tresoldi,R. Vermant,66,2025-10-22
+3,Club Brugge KV,FC Bayern München,L. Audoor,C. Sandra,66,2025-10-22
+3,Club Brugge KV,FC Bayern München,C. Forbs,J. Spileers,46,2025-10-22
+3,Club Brugge KV,FC Bayern München,K. Sabbe,H. Siquet,46,2025-10-22
+3,Juventus,Real Madrid,A. Cambiaso,F. Kostić,88,2025-10-22
+3,Real Madrid,Juventus,R. Asencio,G. García,88,2025-10-22
+3,Real Madrid,Juventus,B. Díaz,F. Mastantuono,84,2025-10-22
+3,Real Madrid,Juventus,Vinícius Jr.,F. Garcia,84,2025-10-22
+3,Juventus,Real Madrid,D. Vlahović,J. David,75,2025-10-22
+3,Juventus,Real Madrid,K. Yıldız,L. Openda,74,2025-10-22
+3,Juventus,Real Madrid,T. Koopmeiners,M. Locatelli,74,2025-10-22
+3,Real Madrid,Juventus,A. Güler,E. Camavinga,74,2025-10-22
+3,Juventus,Real Madrid,K. Thuram,F. Conceição,62,2025-10-22
+3,Sporting CP,Olympique de Marseille,M. Araújo,M. Reis,90,2025-10-22
+3,Olympique de Marseille,Sporting CP,P. Aubameyang,R. Vaz,82,2025-10-22
+3,Sporting CP,Olympique de Marseille,I. Fresneda,A. Santos,80,2025-10-22
+3,Sporting CP,Olympique de Marseille,Z. Debast,O. Diomande,80,2025-10-22
+3,Olympique de Marseille,Sporting CP,I. Paixão,A. Gomes,67,2025-10-22
+3,Olympique de Marseille,Sporting CP,T. Weah,U. Garcia,67,2025-10-22
+3,Sporting CP,Olympique de Marseille,G. Quenda,G. Catamo,64,2025-10-22
+3,Sporting CP,Olympique de Marseille,J. Simões,F. Ioannidis,64,2025-10-22
+3,Olympique de Marseille,Sporting CP,M. Greenwood,A. Murillo,46,2025-10-22
+3,Olympique de Marseille,Sporting CP,A. Vermeeren,M. O'Riley,46,2025-10-22
+4,Eintracht Frankfurt,Napoli,N. Brown,A. Amenda,90,2025-11-04
+4,Eintracht Frankfurt,Napoli,F. Chaïbi,M. Dahoud,90,2025-11-04
+4,Eintracht Frankfurt,Napoli,H. Larsson,E. Skhiri,79,2025-11-04
+4,Napoli,Eintracht Frankfurt,S. Lobotka,N. Lang,73,2025-11-04
+4,Napoli,Eintracht Frankfurt,M. Politano,D. Neres,65,2025-11-04
+4,Eintracht Frankfurt,Napoli,J. Bahoya,A. Knauff,65,2025-11-04
+4,Arsenal,SK Slavia Praha,D. Rice,A. Annous,81,2025-11-04
+4,SK Slavia Praha,Arsenal,Y. Sanyang,V. Kušej,74,2025-11-04
+4,SK Slavia Praha,Arsenal,D. Moses,D. Hashioka,74,2025-11-04
+4,Arsenal,SK Slavia Praha,J. Timber,B. White,73,2025-11-04
+4,Arsenal,SK Slavia Praha,P. Hincapié,M. Lewis-Skelly,73,2025-11-04
+4,Arsenal,SK Slavia Praha,L. Trossard,M. Dowman,72,2025-11-04
+4,SK Slavia Praha,Arsenal,T. Vlček,D. Doudera,70,2025-11-04
+4,SK Slavia Praha,Arsenal,C. Zafeiris,M. Cham-Saračević,70,2025-11-04
+4,Arsenal,SK Slavia Praha,E. Nwaneri,E. Eze,65,2025-11-04
+4,SK Slavia Praha,Arsenal,T. Chorý,M. Chytil,49,2025-11-04
+4,Atlético Madrid,Royale Union Saint-Gilloise,G. Simeone,M. Llorente,88,2025-11-04
+4,Royale Union Saint-Gilloise,Atlético Madrid,A. Khalaili,L. Patris,85,2025-11-04
+4,Royale Union Saint-Gilloise,Atlético Madrid,K. V. D. Perre,M. Rasmussen,74,2025-11-04
+4,Royale Union Saint-Gilloise,Atlético Madrid,K. Rodríguez,M. Giger,74,2025-11-04
+4,Royale Union Saint-Gilloise,Atlético Madrid,A. A. E. Hadj,S. Boufal,74,2025-11-04
+4,Atlético Madrid,Royale Union Saint-Gilloise,A. Baena,C. Gallagher,62,2025-11-04
+4,Atlético Madrid,Royale Union Saint-Gilloise,Koke,T. Almada,62,2025-11-04
+4,Atlético Madrid,Royale Union Saint-Gilloise,A. Griezmann,A. Sorloth,62,2025-11-04
+4,Royale Union Saint-Gilloise,Atlético Madrid,R. Schoofs,P. David,60,2025-11-04
+4,Atlético Madrid,Royale Union Saint-Gilloise,R. Le Normand,J. Gimenez,26,2025-11-04
+4,Bodø/Glimt,AS Monaco,J. P. Hauge,V. Nielsen,86,2025-11-04
+4,Bodø/Glimt,AS Monaco,F. A. Bjørkan,I. D. Määttä,86,2025-11-04
+4,Bodø/Glimt,AS Monaco,K. Høgh,A. Helmersen,73,2025-11-04
+4,Bodø/Glimt,AS Monaco,S. Fet,O. D. Blomberg,73,2025-11-04
+4,AS Monaco,Bodø/Glimt,M. Akliouche,M. Biereth,73,2025-11-04
+4,AS Monaco,Bodø/Glimt,T. Minamino,P. Cabral,64,2025-11-04
+4,Bodø/Glimt,AS Monaco,B. Moe,J. Gundersen,46,2025-11-04
+4,Juventus,Sporting CP,K. Yıldız,J. David,87,2025-11-04
+4,Juventus,Sporting CP,M. Locatelli,F. Miretti,83,2025-11-04
+4,Juventus,Sporting CP,D. Vlahović,V. Adžić,83,2025-11-04
+4,Sporting CP,Juventus,J. Simões,H. Morita,82,2025-11-04
+4,Sporting CP,Juventus,P. Gonçalves,A. Santos,82,2025-11-04
+4,Juventus,Sporting CP,F. Conceição,E. Zhegrova,72,2025-11-04
+4,Juventus,Sporting CP,K. Thuram,F. Kostić,72,2025-11-04
+4,Sporting CP,Juventus,F. Ioannidis,L. J. Suárez ,72,2025-11-04
+4,Sporting CP,Juventus,G. Vagiannidis,E. Quaresma,67,2025-11-04
+4,Sporting CP,Juventus,G. Quenda,G. Catamo,67,2025-11-04
+4,Real Madrid,Liverpool,F. Valverde,B. Díaz,90,2025-11-04
+4,Liverpool,Real Madrid,F. Wirtz,F. Chiesa,88,2025-11-04
+4,Liverpool,Real Madrid,A. Robertson,M. Kerkez,88,2025-11-04
+4,Real Madrid,Liverpool,A. Güler,T. Alexander-Arnold,81,2025-11-04
+4,Liverpool,Real Madrid,H. Ekitiké,C. Gakpo,79,2025-11-04
+4,Liverpool,Real Madrid,A. Mac Allister,C. Jones,79,2025-11-04
+4,Real Madrid,Liverpool,E. Camavinga,Rodrygo,69,2025-11-04
+4,PSV Eindhoven,Olympiacos FC,I. Saibari,M. Boadu,84,2025-11-04
+4,Olympiacos FC,PSV Eindhoven,D. Podence,Costinha,84,2025-11-04
+4,Olympiacos FC,PSV Eindhoven,A. E. Kaabi,L. Scipioni,83,2025-11-04
+4,Olympiacos FC,PSV Eindhoven,Chiquinho,M. Taremi,74,2025-11-04
+4,PSV Eindhoven,Olympiacos FC,I. Perisic,E. Bajraktarević,68,2025-11-04
+4,PSV Eindhoven,Olympiacos FC,A. Salah-Eddine,P. Wanner,67,2025-11-04
+4,Olympiacos FC,PSV Eindhoven,D. García,D. Nascimento,63,2025-11-04
+4,PSV Eindhoven,Olympiacos FC,D. Man,C. Driouech,58,2025-11-04
+4,PSV Eindhoven,Olympiacos FC,G. Til,R. Pepi,58,2025-11-04
+4,FC Bayern München,Paris Saint-Germain,H. Kane,L. Goretzka,88,2025-11-04
+4,FC Bayern München,Paris Saint-Germain,M. Olise,M. Kim,81,2025-11-04
+4,Paris Saint-Germain,FC Bayern München,F. Ruiz,J. Neves,66,2025-11-04
+4,Paris Saint-Germain,FC Bayern München,B. Barcola,G. Ramos,66,2025-11-04
+4,FC Bayern München,Paris Saint-Germain,S. Gnabry,T. Bischof,46,2025-11-04
+4,Paris Saint-Germain,FC Bayern München,A. Hakimi,S. Mayulu,45,2025-11-04
+4,Paris Saint-Germain,FC Bayern München,O. Dembélé,K. Lee,25,2025-11-04
+4,Tottenham Hotspur,FC København,W. Odobert,D. Scarlett,80,2025-11-04
+4,FC København,Tottenham Hotspur,E. Achouri,Robert,76,2025-11-04
+4,Tottenham Hotspur,FC København,C. Romero,K. Danso,73,2025-11-04
+4,Tottenham Hotspur,FC København,D. Udogie,D. Spence,73,2025-11-04
+4,Tottenham Hotspur,FC København,R. K. Muani,Richarlison,72,2025-11-04
+4,FC København,Tottenham Hotspur,G. Pereira,M. Garananga,72,2025-11-04
+4,FC København,Tottenham Hotspur,M. Elyounoussi,A. Cornelius,72,2025-11-04
+4,FC København,Tottenham Hotspur,Y. Moukoko,V. Claesson,72,2025-11-04
+4,Tottenham Hotspur,FC København,X. Simons,J. Palhinha,61,2025-11-04
+4,FC København,Tottenham Hotspur,J. Larsson,V. B. Dadason,46,2025-11-04
+4,Pafos FC,Villarreal,D. Quina,B. Langa,87,2025-11-05
+4,Pafos FC,Villarreal,M. Orsic,Jajá,78,2025-11-05
+4,Pafos FC,Villarreal,Pêpê,A. Silva,78,2025-11-05
+4,Pafos FC,Villarreal,K. Sema,K. Pileas,72,2025-11-05
+4,Villarreal,Pafos FC,S. Cardona,A. Pedraza,63,2025-11-05
+4,Villarreal,Pafos FC,A. Perez,G. Moreno,63,2025-11-05
+4,Villarreal,Pafos FC,D. Parejo,S. Comesaña,63,2025-11-05
+4,Villarreal,Pafos FC,A. Moleiro,M. Solomon,56,2025-11-05
+4,Villarreal,Pafos FC,G. Mikautadze,T. Oluwaseyi,56,2025-11-05
+4,Qarabağ FK,Chelsea,A. Zoubir,O. Kashchuk,75,2025-11-05
+4,Qarabağ FK,Chelsea,E. Cafarquliyev,Dani Bolt,75,2025-11-05
+4,Chelsea,Qarabağ FK,J. Pedro,F. Buonanotte,71,2025-11-05
+4,Qarabağ FK,Chelsea,C. Durán,N. Akhundzade,61,2025-11-05
+4,Qarabağ FK,Chelsea,L. Andrade,T. Bayramov,61,2025-11-05
+4,Chelsea,Qarabağ FK,T. George,L. Delap,46,2025-11-05
+4,Chelsea,Qarabağ FK,J. Gittens,A. Garnacho,46,2025-11-05
+4,Chelsea,Qarabağ FK,A. Santos,E. Fernández,46,2025-11-05
+4,Qarabağ FK,Chelsea,K. Borges,E. Addai,31,2025-11-05
+4,Chelsea,Qarabağ FK,R. Lavia,M. Caicedo,8,2025-11-05
+4,Galatasaray,AFC Ajax,L. Torreira,B. Kutlu,89,2025-11-05
+4,Galatasaray,AFC Ajax,M. Lemina,K. Ayhan,86,2025-11-05
+4,Galatasaray,AFC Ajax,I. Jakobs,E. Elmalı,86,2025-11-05
+4,Galatasaray,AFC Ajax,V. Osimhen,M. Icardi,81,2025-11-05
+4,AFC Ajax,Galatasaray,J. Mokio,J. McConnell,78,2025-11-05
+4,AFC Ajax,Galatasaray,M. Godts,R. Bounida,71,2025-11-05
+4,AFC Ajax,Galatasaray,Y. Regeer,K. Fitz-Jim,71,2025-11-05
+4,AFC Ajax,Galatasaray,O. Wijndal,G. Alders,46,2025-11-05
+4,Galatasaray,AFC Ajax,G. Sara,B. A. Yılmaz,46,2025-11-05
+4,Bayer 04 Leverkusen,Benfica,E. Poku,E. Ben Seghir,88,2025-11-05
+4,Benfica,Bayer 04 Leverkusen,G. Sudakov,G. Prestianni,69,2025-11-05
+4,Benfica,Bayer 04 Leverkusen,L. Barreiro,A. Dedić,69,2025-11-05
+4,Benfica,Bayer 04 Leverkusen,S. Dahl,A. Schjelderup,69,2025-11-05
+4,Bayer 04 Leverkusen,Benfica,C. Echeverri,M. Tillman,57,2025-11-05
+4,Bayer 04 Leverkusen,Benfica,C. Kofane,P. Schick,57,2025-11-05
+4,FC Barcelona,Club Brugge KV,E. García,P. Cubarsí,90,2025-11-05
+4,FC Barcelona,Club Brugge KV,A. Balde,G. Martín,90,2025-11-05
+4,Club Brugge KV,FC Barcelona,L. Audoor,H. Vetlesen,87,2025-11-05
+4,Club Brugge KV,FC Barcelona,R. Onyedika,L. Audoor,84,2025-11-05
+4,FC Barcelona,Club Brugge KV,M. Rashford,R. Bardghji,83,2025-11-05
+4,Club Brugge KV,FC Barcelona,N. Tresoldi,R. Vermant,78,2025-11-05
+4,Club Brugge KV,FC Barcelona,C. Forbs,M. Diakhon,78,2025-11-05
+4,FC Barcelona,Club Brugge KV,F. Torres,R. Lewandowski,58,2025-11-05
+4,FC Barcelona,Club Brugge KV,M. Casadó,D. Olmo,58,2025-11-05
+4,Inter,Kairat Almaty,Y. Bisseck,M. Akanji,81,2025-11-05
+4,Kairat Almaty,Inter,D. Kasabulat,A. Sadybekov,76,2025-11-05
+4,Kairat Almaty,Inter,J. G. C. Monteiro,G. Zaria,76,2025-11-05
+4,Inter,Kairat Almaty,N. Barella,H. Çalhanoğlu,71,2025-11-05
+4,Inter,Kairat Almaty,F. P. Esposito,M. Thuram,71,2025-11-05
+4,Kairat Almaty,Inter,O. Arad,O. Baibek,71,2025-11-05
+4,Kairat Almaty,Inter,Edmilson,Ricardinho,71,2025-11-05
+4,Inter,Kairat Almaty,D. Frattesi,P. Sučić,63,2025-11-05
+4,Inter,Kairat Almaty,L. Martínez,A. Bonny,46,2025-11-05
+4,Kairat Almaty,Inter,V. Gromyko,E. Tapalov,46,2025-11-05
+4,Manchester City,Borussia Dortmund,N. O’Reilly,R. Aït-Nouri,86,2025-11-05
+4,Manchester City,Borussia Dortmund,E. Haaland,O. Marmoush,86,2025-11-05
+4,Borussia Dortmund,Manchester City,K. Adeyemi,F. Silva,81,2025-11-05
+4,Manchester City,Borussia Dortmund,T. Reijnders,R. Dias,79,2025-11-05
+4,Manchester City,Borussia Dortmund,J. Doku,R. Cherki,79,2025-11-05
+4,Manchester City,Borussia Dortmund,Savinho,B. Silva,79,2025-11-05
+4,Borussia Dortmund,Manchester City,M. Beier,C. Chukwuemeka,67,2025-11-05
+4,Borussia Dortmund,Manchester City,R. Bensebaini,E. Can,67,2025-11-05
+4,Borussia Dortmund,Manchester City,S. Guirassy,J. Bellingham,67,2025-11-05
+4,Borussia Dortmund,Manchester City,M. Sabitzer,P. Gross,67,2025-11-05
+4,Newcastle United,Athletic Club,N. Woltemade,J. Ramsey,83,2025-11-05
+4,Athletic Club,Newcastle United,A. R. Mora,I. De Galarreta,80,2025-11-05
+4,Athletic Club,Newcastle United,J. Areso,A. Gorosabel,78,2025-11-05
+4,Athletic Club,Newcastle United,U. Gómez,A. Hierro,78,2025-11-05
+4,Athletic Club,Newcastle United,R. Navarro,N. Serrano,69,2025-11-05
+4,Athletic Club,Newcastle United,M. Jauregizar,S. Sánchez,69,2025-11-05
+4,Newcastle United,Athletic Club,B. Guimarães,L. Miley,66,2025-11-05
+4,Newcastle United,Athletic Club,H. Barnes,A. Elanga,66,2025-11-05
+4,Newcastle United,Athletic Club,D. Burn,L. Hall,65,2025-11-05
+4,Newcastle United,Athletic Club,A. Gordon,J. Murphy,41,2025-11-05
+4,Olympique de Marseille,Atalanta,U. Garcia,T. Mmadi,90,2025-11-05
+4,Atalanta,Olympique de Marseille,N. Krstović,G. Scamacca,85,2025-11-05
+4,Atalanta,Olympique de Marseille,C. De Ketelaere,L. Samardžić,85,2025-11-05
+4,Olympique de Marseille,Atalanta,C. Egan-Riley,A. Gomes,79,2025-11-05
+4,Atalanta,Olympique de Marseille,A. Lookman,Y. Musah,75,2025-11-05
+4,Olympique de Marseille,Atalanta,I. Paixão,R. Vaz,71,2025-11-05
+4,Atalanta,Olympique de Marseille,O. Kossounou,I. Hien,55,2025-11-05
+4,Atalanta,Olympique de Marseille,M. de Roon,M. Pašalić,46,2025-11-05
+5,Benfica,AFC Ajax,L. Barreiro,R. Rêgo,90,2025-11-25
+5,Benfica,AFC Ajax,V. Pavlidis,M. Silva,90,2025-11-25
+5,AFC Ajax,Benfica,Y. Regeer,R. Moro,83,2025-11-25
+5,Benfica,AFC Ajax,G. Sudakov,T. Araújo,81,2025-11-25
+5,AFC Ajax,Benfica,M. Godts,K. Dolberg,75,2025-11-25
+5,AFC Ajax,Benfica,D. Klaassen,K. Fitz-Jim,74,2025-11-25
+5,AFC Ajax,Benfica,R. Bounida,O. Gloukh,74,2025-11-25
+5,AFC Ajax,Benfica,O. Wijndal,J. Mokio,60,2025-11-25
+5,Royale Union Saint-Gilloise,Galatasaray,O. Niang,F. Leysen,90,2025-11-25
+5,Royale Union Saint-Gilloise,Galatasaray,A. A. E. Hadj,R. Schoofs,71,2025-11-25
+5,Royale Union Saint-Gilloise,Galatasaray,R. Florucz,S. Boufal,71,2025-11-25
+5,Royale Union Saint-Gilloise,Galatasaray,P. David,K. Rodríguez,58,2025-11-25
+5,Galatasaray,Royale Union Saint-Gilloise,I. Jakobs,A. Ünyay,53,2025-11-25
+5,Bodø/Glimt,Juventus,K. Høgh,A. Helmersen,87,2025-11-25
+5,Juventus,Bodø/Glimt,F. Conceição,E. Zhegrova,83,2025-11-25
+5,Bodø/Glimt,Juventus,O. D. Blomberg,J. P. Hauge,77,2025-11-25
+5,Bodø/Glimt,Juventus,H. Evjen,M. Jørgensen,77,2025-11-25
+5,Juventus,Bodø/Glimt,L. Openda,J. David,75,2025-11-25
+5,Juventus,Bodø/Glimt,A. Cambiaso,J. Cabal,75,2025-11-25
+5,Juventus,Bodø/Glimt,F. Miretti,K. Thuram,68,2025-11-25
+5,Bodø/Glimt,Juventus,H. Aleesami,B. Moe,61,2025-11-25
+5,Bodø/Glimt,Juventus,I. D. Määttä,S. Auklend,61,2025-11-25
+5,Juventus,Bodø/Glimt,V. Adžić,K. Yıldız,46,2025-11-25
+5,Borussia Dortmund,Villarreal,W. Anton,E. Can,84,2025-11-25
+5,Villarreal,Borussia Dortmund,T. Buchanan,I. Akhomach,83,2025-11-25
+5,Villarreal,Borussia Dortmund,S. Mouriño,P. Navarro,83,2025-11-25
+5,Borussia Dortmund,Villarreal,F. Nmecha,P. Gross,77,2025-11-25
+5,Borussia Dortmund,Villarreal,M. Sabitzer,J. Bellingham,77,2025-11-25
+5,Villarreal,Borussia Dortmund,S. Comesaña,D. Parejo,74,2025-11-25
+5,Borussia Dortmund,Villarreal,J. Brandt,C. Chukwuemeka,68,2025-11-25
+5,Borussia Dortmund,Villarreal,S. Guirassy,F. Silva,68,2025-11-25
+5,Villarreal,Borussia Dortmund,N. Pépé,A. Moleiro,65,2025-11-25
+5,Villarreal,Borussia Dortmund,T. Partey,R. Marín,65,2025-11-25
+5,Chelsea,FC Barcelona,Estêvão,T. George,83,2025-11-25
+5,Chelsea,FC Barcelona,R. James,J. Acheampong,82,2025-11-25
+5,FC Barcelona,Chelsea,L. Yamal,D. Olmo,80,2025-11-25
+5,FC Barcelona,Chelsea,A. Balde,G. Martín,80,2025-11-25
+5,Chelsea,FC Barcelona,P. Neto,J. Gittens,75,2025-11-25
+5,FC Barcelona,Chelsea,F. López,A. Christensen,62,2025-11-25
+5,FC Barcelona,Chelsea,R. Lewandowski,Raphinha,62,2025-11-25
+5,Chelsea,FC Barcelona,A. Garnacho,L. Delap,59,2025-11-25
+5,FC Barcelona,Chelsea,F. Torres,M. Rashford,46,2025-11-25
+5,Chelsea,FC Barcelona,M. Gusto,A. Santos,46,2025-11-25
+5,Bayer 04 Leverkusen,Manchester City,C. Kofane,N. Tella,83,2025-11-25
+5,Manchester City,Bayer 04 Leverkusen,A. Khusanov,R. Cherki,65,2025-11-25
+5,Manchester City,Bayer 04 Leverkusen,O. Marmoush,E. Haaland,65,2025-11-25
+5,Manchester City,Bayer 04 Leverkusen,O. Bobb,J. Doku,46,2025-11-25
+5,Manchester City,Bayer 04 Leverkusen,R. Aït-Nouri,N. O’Reilly,46,2025-11-25
+5,Manchester City,Bayer 04 Leverkusen,R. Lewis,P. Foden,46,2025-11-25
+5,Napoli,Qarabağ FK,A. Buongiorno,Juan Jesus,90,2025-11-25
+5,Napoli,Qarabağ FK,D. Neres,A. Vergara,90,2025-11-25
+5,Qarabağ FK,Napoli,M. Silva,Dani Bolt,76,2025-11-25
+5,Qarabağ FK,Napoli,E. Cafarquliyev,T. Bayramov,76,2025-11-25
+5,Qarabağ FK,Napoli,C. Durán,N. Akhundzade,76,2025-11-25
+5,Napoli,Qarabağ FK,R. Højlund,L. Lucca,75,2025-11-25
+5,Napoli,Qarabağ FK,N. Lang,E. Elmas,75,2025-11-25
+5,Napoli,Qarabağ FK,S. Beukema,M. Politano,64,2025-11-25
+5,Qarabağ FK,Napoli,K. Medina,S. Mmaee,61,2025-11-25
+5,Qarabağ FK,Napoli,L. Andrade,O. Kashchuk,61,2025-11-25
+5,Olympique de Marseille,Newcastle United,P. Aubameyang,R. Vaz,90,2025-11-25
+5,Olympique de Marseille,Newcastle United,M. Greenwood,A. Gomes,88,2025-11-25
+5,Newcastle United,Olympique de Marseille,J. Willock,J. Ramsey,72,2025-11-25
+5,Newcastle United,Olympique de Marseille,A. Gordon,N. Woltemade,72,2025-11-25
+5,Olympique de Marseille,Newcastle United,D. Bakola,M. O'Riley,62,2025-11-25
+5,Newcastle United,Olympique de Marseille,F. Schar,A. Elanga,61,2025-11-25
+5,Newcastle United,Olympique de Marseille,V. Livramento,L. Hall,60,2025-11-25
+5,Newcastle United,Olympique de Marseille,J. Murphy,L. Miley,60,2025-11-25
+5,SK Slavia Praha,Athletic Club,C. Zafeiris,M. Chytil,79,2025-11-25
+5,Athletic Club,SK Slavia Praha,J. Areso,Í. Lekue,79,2025-11-25
+5,Athletic Club,SK Slavia Praha,G. Guruzeta,U. Gómez,79,2025-11-25
+5,Athletic Club,SK Slavia Praha,I. De Galarreta,M. Jauregizar,64,2025-11-25
+5,Athletic Club,SK Slavia Praha,Á. Berenguer,N. Williams,58,2025-11-25
+5,Athletic Club,SK Slavia Praha,O. Sancet,S. Sánchez,58,2025-11-25
+5,SK Slavia Praha,Athletic Club,Y. Sanyang,V. Kušej,55,2025-11-25
+5,SK Slavia Praha,Athletic Club,Y. Mbodji,J. Boril,55,2025-11-25
+5,SK Slavia Praha,Athletic Club,D. Doudera,T. Holes,55,2025-11-25
+5,FC København,Kairat Almaty,V. B. Dadason,M. Garananga,90,2025-11-26
+5,FC København,Kairat Almaty,Robert,Y. Moukoko,79,2025-11-26
+5,FC København,Kairat Almaty,J. Suzuki,Y. Zague,79,2025-11-26
+5,Kairat Almaty,FC København,Edmilson,Ricardinho,78,2025-11-26
+5,Kairat Almaty,FC København,D. Kasabulat,A. Sadybekov,78,2025-11-26
+5,Kairat Almaty,FC København,V. Gromyko,J. Stanojev,69,2025-11-26
+5,Kairat Almaty,FC København,J. G. C. Monteiro,G. Zaria,69,2025-11-26
+5,FC København,Kairat Almaty,W. Clem,M. E. Madsen,69,2025-11-26
+5,FC København,Kairat Almaty,J. Larsson,M. Elyounoussi,69,2025-11-26
+5,Kairat Almaty,FC København,D. Glazer,O. Baibek,64,2025-11-26
+5,AS Monaco,Pafos FC,F. Balogun,M. Biereth,89,2025-11-26
+5,Pafos FC,AS Monaco,V. Dragomir,L. Dimata,79,2025-11-26
+5,AS Monaco,Pafos FC,T. Minamino,A. Fati,77,2025-11-26
+5,AS Monaco,Pafos FC,Vanderson,T. Kehrer,77,2025-11-26
+5,Pafos FC,AS Monaco,A. Silva,M. Bassouamina,69,2025-11-26
+5,AS Monaco,Pafos FC,L. Camara,M. Coulibaly,66,2025-11-26
+5,AS Monaco,Pafos FC,A. Golovin,L. Michal,65,2025-11-26
+5,Pafos FC,AS Monaco,D. Quina,Jajá,57,2025-11-26
+5,Pafos FC,AS Monaco,D. Goldar,B. Langa,46,2025-11-26
+5,FC Bayern München,Arsenal,D. Upamecano,M. Kim,82,2025-11-26
+5,FC Bayern München,Arsenal,L. Karl,R. Guerreiro,81,2025-11-26
+5,FC Bayern München,Arsenal,J. Kimmich,L. Goretzka,81,2025-11-26
+5,Arsenal,FC Bayern München,E. Eze,M. Odegaard,81,2025-11-26
+5,Arsenal,FC Bayern München,J. Timber,B. White,81,2025-11-26
+5,FC Bayern München,Arsenal,K. Laimer,T. Bischof,72,2025-11-26
+5,FC Bayern München,Arsenal,S. Gnabry,N. Jackson,72,2025-11-26
+5,Arsenal,FC Bayern München,B. Saka,G. Martinelli,68,2025-11-26
+5,Arsenal,FC Bayern München,M. Lewis-Skelly,R. Calafiori,68,2025-11-26
+5,Arsenal,FC Bayern München,L. Trossard,N. Madueke,38,2025-11-26
+5,Inter,Atlético Madrid,F. Dimarco,L. Henrique,79,2025-11-26
+5,Inter,Atlético Madrid,H. Çalhanoğlu,D. Frattesi,72,2025-11-26
+5,Inter,Atlético Madrid,L. Martínez,F. P. Esposito,72,2025-11-26
+5,Atlético Madrid,Inter,M. Ruggeri,A. Sørloth,68,2025-11-26
+5,Atlético Madrid,Inter,A. Baena,A. Griezmann,68,2025-11-26
+5,Inter,Atlético Madrid,A. Bonny,M. Thuram,65,2025-11-26
+5,Inter,Atlético Madrid,P. Zieliński,P. Sučić,65,2025-11-26
+5,Atlético Madrid,Inter,J. Cardoso,Pubill,59,2025-11-26
+5,Atlético Madrid,Inter,C. Gallagher,Koke,59,2025-11-26
+5,Atlético Madrid,Inter,N. Molina,N. González,58,2025-11-26
+5,Atalanta,Eintracht Frankfurt,A. Lookman,K. Sulemana,82,2025-11-26
+5,Eintracht Frankfurt,Atalanta,A. Knauff,E. Wahi,78,2025-11-26
+5,Eintracht Frankfurt,Atalanta,R. Doan,A. Buta,78,2025-11-26
+5,Atalanta,Eintracht Frankfurt,B. Djimsiti,S. Kolasinac,74,2025-11-26
+5,Eintracht Frankfurt,Atalanta,M. Dahoud,E. Skhiri,70,2025-11-26
+5,Eintracht Frankfurt,Atalanta,M. Gotze,M. Batshuayi,69,2025-11-26
+5,Atalanta,Eintracht Frankfurt,D. Zappacosta,N. Zalewski,69,2025-11-26
+5,Atalanta,Eintracht Frankfurt,Éderson,Y. Musah,69,2025-11-26
+5,Atalanta,Eintracht Frankfurt,G. Scamacca,N. Krstović,69,2025-11-26
+5,Eintracht Frankfurt,Atalanta,J. Burkardt,J. Bahoya,59,2025-11-26
+5,PSV Eindhoven,Liverpool,D. Man,E. Bajraktarević,89,2025-11-26
+5,Liverpool,PSV Eindhoven,I. Konaté,F. Chiesa,76,2025-11-26
+5,PSV Eindhoven,Liverpool,I. Perisic,C. Driouech,70,2025-11-26
+5,PSV Eindhoven,Liverpool,G. Til,R. Pepi,70,2025-11-26
+5,Liverpool,PSV Eindhoven,H. Ekitiké,A. Isak,61,2025-11-26
+5,Real Madrid,Olympiacos FC,Vinícius Jr.,F. Garcia,90,2025-11-26
+5,Real Madrid,Olympiacos FC,R. Asencio,B. Díaz,73,2025-11-26
+5,Olympiacos FC,Real Madrid,Rodinei,Costinha,72,2025-11-26
+5,Olympiacos FC,Real Madrid,D. Podence,G. Strefezza,72,2025-11-26
+5,Olympiacos FC,Real Madrid,L. Pirola,G. Biancone,62,2025-11-26
+5,Real Madrid,Olympiacos FC,A. Güler,J. Bellingham,61,2025-11-26
+5,Olympiacos FC,Real Madrid,D. Garcia,S. Hezze,46,2025-11-26
+5,Real Madrid,Olympiacos FC,E. Camavinga,D. Ceballos,46,2025-11-26
+5,Olympiacos FC,Real Madrid,Chiquinho,M. Taremi,28,2025-11-26
+5,Paris Saint-Germain,Tottenham Hotspur,Vitinha,I. Zabarnyi,90,2025-11-26
+5,Tottenham Hotspur,Paris Saint-Germain,P. M. Sarr,W. Odobert,84,2025-11-26
+5,Tottenham Hotspur,Paris Saint-Germain,D. Spence,D. Udogie,84,2025-11-26
+5,Tottenham Hotspur,Paris Saint-Germain,R. K. Muani,X. Simons,83,2025-11-26
+5,Paris Saint-Germain,Tottenham Hotspur,K. Kvaratskhelia,O. Dembélé,79,2025-11-26
+5,Paris Saint-Germain,Tottenham Hotspur,Q. Ndjantou,G. Ramos,79,2025-11-26
+5,Tottenham Hotspur,Paris Saint-Germain,A. Gray,J. Palhinha,76,2025-11-26
+5,Tottenham Hotspur,Paris Saint-Germain,L. Bergvall,M. Kudus,76,2025-11-26
+5,Paris Saint-Germain,Tottenham Hotspur,B. Barcola,K. Lee,56,2025-11-26
+5,Paris Saint-Germain,Tottenham Hotspur,N. Mendes,L. Hernández,46,2025-11-26
+5,Sporting CP,Club Brugge KV,L. J. Suárez ,R. Ribeiro,86,2025-11-26
+5,Sporting CP,Club Brugge KV,M. Araújo,M. Reis,86,2025-11-26
+5,Club Brugge KV,Sporting CP,H. Siquet,J. Spileers,81,2025-11-26
+5,Club Brugge KV,Sporting CP,J. Seys,Z. Romero,81,2025-11-26
+5,Sporting CP,Club Brugge KV,G. Quenda,S. Blopa,76,2025-11-26
+5,Sporting CP,Club Brugge KV,G. Catamo,A. Santos,76,2025-11-26
+5,Club Brugge KV,Sporting CP,A. Stanković,M. Diakhon,74,2025-11-26
+5,Club Brugge KV,Sporting CP,C. Forbs,H. Vetlesen,74,2025-11-26
+5,Sporting CP,Club Brugge KV,J. Simões,H. Morita,63,2025-11-26
+5,Club Brugge KV,Sporting CP,R. Vermant,N. Tresoldi,61,2025-11-26
+6,Olympiacos FC,Kairat Almaty,S. Hezze,D. Garcia,84,2025-12-09
+6,Kairat Almaty,Olympiacos FC,Edmilson,J. Stanojev,82,2025-12-09
+6,Kairat Almaty,Olympiacos FC,O. Baibek,D. Kasabulat,82,2025-12-09
+6,Olympiacos FC,Kairat Almaty,Chiquinho,M. Taremi,62,2025-12-09
+6,Olympiacos FC,Kairat Almaty,D. Podence,G. Strefezza,62,2025-12-09
+6,Kairat Almaty,Olympiacos FC,E. Tapalov,A. Tuyakbayev,62,2025-12-09
+6,Kairat Almaty,Olympiacos FC,G. Zaria,V. Gromyko,46,2025-12-09
+6,Kairat Almaty,Olympiacos FC,Ricardinho,J. G. C. Monteiro,46,2025-12-09
+6,FC Bayern München,Sporting CP,H. Kane,N. Jackson,90,2025-12-09
+6,Sporting CP,FC Bayern München,J. Simões,H. Morita,90,2025-12-09
+6,Sporting CP,FC Bayern München,M. Araújo,S. Blopa,90,2025-12-09
+6,FC Bayern München,Sporting CP,A. Pavlović,L. Goretzka,88,2025-12-09
+6,FC Bayern München,Sporting CP,J. Stanišić,H. Itō,88,2025-12-09
+6,FC Bayern München,Sporting CP,S. Gnabry,A. Davies,88,2025-12-09
+6,Sporting CP,FC Bayern München,G. Catamo,F. Ioannidis,81,2025-12-09
+6,Sporting CP,FC Bayern München,E. Quaresma,G. Vagiannidis,80,2025-12-09
+6,FC Bayern München,Sporting CP,L. Karl,R. Guerreiro,77,2025-12-09
+6,Sporting CP,FC Bayern München,A. Santos,R. Mangas,66,2025-12-09
+6,AS Monaco,Galatasaray,F. Balogun,M. Biereth,86,2025-12-09
+6,AS Monaco,Galatasaray,A. Golovin,K. Ouattara,82,2025-12-09
+6,Galatasaray,AS Monaco,I. Jakobs,M. Icardi,79,2025-12-09
+6,AS Monaco,Galatasaray,T. Minamino,J. Teze,75,2025-12-09
+6,Galatasaray,AS Monaco,U. Çakır,G. Guvenc,68,2025-12-09
+6,Galatasaray,AS Monaco,I. Gundogan,Y. Akgün,63,2025-12-09
+6,Atalanta,Chelsea,A. Lookman,M. Pašalić,87,2025-12-09
+6,Atalanta,Chelsea,Éderson,Y. Musah,87,2025-12-09
+6,Chelsea,Atalanta,W. Fofana,T. Adarabioyo,76,2025-12-09
+6,Atalanta,Chelsea,G. Scamacca,N. Krstović,72,2025-12-09
+6,Atalanta,Chelsea,S. Kolašinac,H. Ahanor,71,2025-12-09
+6,Chelsea,Atalanta,E. Fernández,M. Gusto,67,2025-12-09
+6,Chelsea,Atalanta,P. Neto,A. Garnacho,66,2025-12-09
+6,Chelsea,Atalanta,T. Chalobah,W. Fofana,46,2025-12-09
+6,Atalanta,Chelsea,R. Bellanova,D. Zappacosta,17,2025-12-09
+6,FC Barcelona,Eintracht Frankfurt,L. Yamal,R. Bardghji,89,2025-12-09
+6,Eintracht Frankfurt,FC Barcelona,R. Doan,J. Ngankam,89,2025-12-09
+6,FC Barcelona,Eintracht Frankfurt,A. Balde,A. Christensen,89,2025-12-09
+6,Eintracht Frankfurt,FC Barcelona,F. Chaïbi,J. Bahoya,77,2025-12-09
+6,Eintracht Frankfurt,FC Barcelona,M. Gotze,C. Uzun,77,2025-12-09
+6,Eintracht Frankfurt,FC Barcelona,H. Larsson,M. Dahoud,68,2025-12-09
+6,Eintracht Frankfurt,FC Barcelona,A. Knauff,E. Wahi,68,2025-12-09
+6,FC Barcelona,Eintracht Frankfurt,Raphinha,F. de Jong,66,2025-12-09
+6,FC Barcelona,Eintracht Frankfurt,R. Lewandowski,F. Torres,66,2025-12-09
+6,FC Barcelona,Eintracht Frankfurt,F. López,M. Rashford,46,2025-12-09
+6,Inter,Liverpool,F. Dimarco,C. Augusto,83,2025-12-09
+6,Inter,Liverpool,M. Thuram,A. Bonny,83,2025-12-09
+6,Inter,Liverpool,H. Mkhitaryan,P. Sučić,82,2025-12-09
+6,Liverpool,Inter,J. Gomez,C. Bradley,68,2025-12-09
+6,Liverpool,Inter,A. Isak,F. Wirtz,68,2025-12-09
+6,Inter,Liverpool,F. Acerbi,Y. Bisseck,31,2025-12-09
+6,Inter,Liverpool,H. Çalhanoğlu,P. Zieliński,11,2025-12-09
+6,Atlético Madrid,PSV Eindhoven,G. Simeone,R. Le Normand,89,2025-12-09
+6,PSV Eindhoven,Atlético Madrid,C. Driouech,I. Perisic,81,2025-12-09
+6,Atlético Madrid,PSV Eindhoven,Koke,A. Griezmann,76,2025-12-09
+6,Atlético Madrid,PSV Eindhoven,A. Sorloth,T. Almada,76,2025-12-09
+6,PSV Eindhoven,Atlético Madrid,G. Til,R. Pepi,73,2025-12-09
+6,Atlético Madrid,PSV Eindhoven,N. González,C. Gallagher,69,2025-12-09
+6,PSV Eindhoven,Atlético Madrid,P. Wanner,D. Man,59,2025-12-09
+6,PSV Eindhoven,Atlético Madrid,Y. Gasiorowski,A. Obispo,59,2025-12-09
+6,Royale Union Saint-Gilloise,Olympique de Marseille,O. Niang,R. Sykes,90,2025-12-09
+6,Olympique de Marseille,Royale Union Saint-Gilloise,M. Greenwood,R. Vaz,88,2025-12-09
+6,Olympique de Marseille,Royale Union Saint-Gilloise,P. Aubameyang,G. Kondogbia,88,2025-12-09
+6,Royale Union Saint-Gilloise,Olympique de Marseille,K. Rodríguez,M. Giger,82,2025-12-09
+6,Royale Union Saint-Gilloise,Olympique de Marseille,K. V. D. Perre,M. Rasmussen,82,2025-12-09
+6,Olympique de Marseille,Royale Union Saint-Gilloise,M. O'Riley,B. Nadir,69,2025-12-09
+6,Royale Union Saint-Gilloise,Olympique de Marseille,R. Florucz,P. David,64,2025-12-09
+6,Royale Union Saint-Gilloise,Olympique de Marseille,R. Schoofs,S. Boufal,64,2025-12-09
+6,Olympique de Marseille,Royale Union Saint-Gilloise,T. Weah,L. Balerdi,46,2025-12-09
+6,SK Slavia Praha,Tottenham Hotspur,Y. Sanyang,Y. Mbodji,80,2025-12-09
+6,Tottenham Hotspur,SK Slavia Praha,W. Odobert,L. Bergvall,76,2025-12-09
+6,SK Slavia Praha,Tottenham Hotspur,M. Sadílek,M. Cham-Saračević,76,2025-12-09
+6,Tottenham Hotspur,SK Slavia Praha,P. Porro,B. Davies,68,2025-12-09
+6,Tottenham Hotspur,SK Slavia Praha,Richarlison,R. K. Muani,68,2025-12-09
+6,SK Slavia Praha,Tottenham Hotspur,S. Chaloupek,C. Zafeiris,60,2025-12-09
+6,SK Slavia Praha,Tottenham Hotspur,D. Zima,T. Vlček,60,2025-12-09
+6,SK Slavia Praha,Tottenham Hotspur,M. Chytil,E. Prekop,60,2025-12-09
+6,Tottenham Hotspur,SK Slavia Praha,A. Gray,P. M. Sarr,59,2025-12-09
+6,Tottenham Hotspur,SK Slavia Praha,M. Kudus,M. Tel,58,2025-12-09
+6,Qarabağ FK,AFC Ajax,P. Bicalho,J. Montiel,87,2025-12-10
+6,Qarabağ FK,AFC Ajax,M. Silva,Dani Bolt,87,2025-12-10
+6,Qarabağ FK,AFC Ajax,E. Cafarquliyev,T. Bayramov,87,2025-12-10
+6,AFC Ajax,Qarabağ FK,J. Mokio,K. Fitz-Jim,84,2025-12-10
+6,AFC Ajax,Qarabağ FK,R. Moro,M. Godts,76,2025-12-10
+6,AFC Ajax,Qarabağ FK,S. Steur,D. Klaassen,76,2025-12-10
+6,Qarabağ FK,AFC Ajax,C. Durán,O. Kashchuk,70,2025-12-10
+6,AFC Ajax,Qarabağ FK,K. Itakura,Y. Regeer,65,2025-12-10
+6,AFC Ajax,Qarabağ FK,K. Dolberg,D. Konadu,65,2025-12-10
+6,Qarabağ FK,AFC Ajax,L. Andrade,N. Akhundzade,59,2025-12-10
+6,Villarreal,FC København,A. Pedraza,S. Cardona,83,2025-12-10
+6,FC København,Villarreal,M. E. Madsen,T. Delaney,82,2025-12-10
+6,FC København,Villarreal,W. Clem,V. Claesson,81,2025-12-10
+6,FC København,Villarreal,Y. Zague,B. Meling,72,2025-12-10
+6,FC København,Villarreal,V. B. Dadason,A. Cornelius,71,2025-12-10
+6,Villarreal,FC København,A. Moleiro,M. Solomon,63,2025-12-10
+6,Villarreal,FC København,T. Buchanan,I. Akhomach,46,2025-12-10
+6,FC København,Villarreal,Robert,E. Achouri,46,2025-12-10
+6,Villarreal,FC København,G. Mikautadze,T. Oluwaseyi,46,2025-12-10
+6,Villarreal,FC København,N. Pépé,A. Pérez,46,2025-12-10
+6,Athletic Club,Paris Saint-Germain,I. De Galarreta,M. Vesga,78,2025-12-10
+6,Paris Saint-Germain,Athletic Club,B. Barcola,G. Ramos,78,2025-12-10
+6,Athletic Club,Paris Saint-Germain,J. Areso,A. Gorosabel,73,2025-12-10
+6,Athletic Club,Paris Saint-Germain,O. Sancet,A. Hierro,73,2025-12-10
+6,Athletic Club,Paris Saint-Germain,M. Jauregizar,A. R. Mora,73,2025-12-10
+6,Athletic Club,Paris Saint-Germain,G. Guruzeta,U. Gómez,62,2025-12-10
+6,Paris Saint-Germain,Athletic Club,S. Mayulu,D. Doué,62,2025-12-10
+6,Paris Saint-Germain,Athletic Club,Marquinhos,I. Zabarnyi,46,2025-12-10
+6,Newcastle United,Bayer 04 Leverkusen,N. Woltemade,Y. Wissa,90,2025-12-10
+6,Newcastle United,Bayer 04 Leverkusen,A. Gordon,J. Ramsey,90,2025-12-10
+6,Bayer 04 Leverkusen,Newcastle United,Arthur,L. Badé,90,2025-12-10
+6,Bayer 04 Leverkusen,Newcastle United,M. Tillman,C. Echeverri,85,2025-12-10
+6,Newcastle United,Bayer 04 Leverkusen,H. Barnes,J. Murphy,78,2025-12-10
+6,Bayer 04 Leverkusen,Newcastle United,E. Poku,N. Tella,71,2025-12-10
+6,Newcastle United,Bayer 04 Leverkusen,Joelinton,L. Miley,60,2025-12-10
+6,Bayer 04 Leverkusen,Newcastle United,P. Schick,C. Kofane,46,2025-12-10
+6,Benfica,Napoli,L. Barreiro,J. Neto,90,2025-12-10
+6,Benfica,Napoli,F. Aursnes,T. Freitas,90,2025-12-10
+6,Napoli,Benfica,E. Elmas,A. Vergara,81,2025-12-10
+6,Benfica,Napoli,G. Sudakov,A. Silva,76,2025-12-10
+6,Benfica,Napoli,F. Ivanović,V. Pavlidis,76,2025-12-10
+6,Napoli,Benfica,N. Lang,L. Lucca,74,2025-12-10
+6,Napoli,Benfica,A. Buongiorno,Juan Jesus,59,2025-12-10
+6,Napoli,Benfica,S. Beukema,M. Politano,46,2025-12-10
+6,Napoli,Benfica,M. Olivera,L. Spinazzola,46,2025-12-10
+6,Bodø/Glimt,Borussia Dortmund,I. D. Määttä,A. Klynge,82,2025-12-10
+6,Borussia Dortmund,Bodø/Glimt,Y. Couto,J. Ryerson,77,2025-12-10
+6,Borussia Dortmund,Bodø/Glimt,A. Anselmino,E. Can,77,2025-12-10
+6,Bodø/Glimt,Borussia Dortmund,H. Aleesami,V. Nielsen,68,2025-12-10
+6,Bodø/Glimt,Borussia Dortmund,O. D. Blomberg,M. Jørgensen,68,2025-12-10
+6,Bodø/Glimt,Borussia Dortmund,K. Høgh,A. Helmersen,68,2025-12-10
+6,Borussia Dortmund,Bodø/Glimt,F. Silva,S. Guirassy,67,2025-12-10
+6,Borussia Dortmund,Bodø/Glimt,M. Beier,K. Adeyemi,67,2025-12-10
+6,Bodø/Glimt,Borussia Dortmund,S. Fet,U. Saltnes,46,2025-12-10
+6,Borussia Dortmund,Bodø/Glimt,W. Anton,D. Svensson,33,2025-12-10
+6,Club Brugge KV,Arsenal,C. Forbs,M. Diakhon,83,2025-12-10
+6,Arsenal,Club Brugge KV,B. White,M. Salmon,83,2025-12-10
+6,Club Brugge KV,Arsenal,R. Onyedika,H. Vetlesen,74,2025-12-10
+6,Club Brugge KV,Arsenal,J. Seys,K. Sabbe,74,2025-12-10
+6,Arsenal,Club Brugge KV,M. Ødegaard,E. Nwaneri,71,2025-12-10
+6,Arsenal,Club Brugge KV,N. Madueke,B. Saka,71,2025-12-10
+6,Club Brugge KV,Arsenal,H. Siquet,B. Meijer,67,2025-12-10
+6,Club Brugge KV,Arsenal,N. Tresoldi,K. I. Furo,67,2025-12-10
+6,Arsenal,Club Brugge KV,P. Hincapié,R. Calafiori,63,2025-12-10
+6,Arsenal,Club Brugge KV,V. Gyökeres,G. Jesus,62,2025-12-10
+6,Pafos FC,Juventus,J. Correia,B. Langa,89,2025-12-10
+6,Juventus,Pafos FC,K. Yıldız,J. Cabal,84,2025-12-10
+6,Pafos FC,Juventus,V. Dragomir,M. Bassouamina,78,2025-12-10
+6,Pafos FC,Juventus,D. Goldar,K. Pileas,78,2025-12-10
+6,Pafos FC,Juventus,M. Oršić,Jajá,78,2025-12-10
+6,Juventus,Pafos FC,J. David,V. Adžić,74,2025-12-10
+6,Juventus,Pafos FC,F. Miretti,K. Thuram,74,2025-12-10
+6,Pafos FC,Juventus,A. Silva,D. Quina,62,2025-12-10
+6,Juventus,Pafos FC,M. Locatelli,L. Openda,60,2025-12-10
+6,Juventus,Pafos FC,E. Zhegrova,F. Conceição,46,2025-12-10
+6,Manchester City,Real Madrid,J. Doku,N. Ake,87,2025-12-10
+6,Real Madrid,Manchester City,R. Asencio,Endrick,79,2025-12-10
+6,Manchester City,Real Madrid,R. Cherki,Savinho,71,2025-12-10
+6,Manchester City,Real Madrid,P. Foden,T. Reijnders,70,2025-12-10
+6,Manchester City,Real Madrid,E. Haaland,O. Marmoush,70,2025-12-10
+6,Real Madrid,Manchester City,D. Ceballos,B. Díaz,67,2025-12-10
+6,Real Madrid,Manchester City,G. García,A. Güler,58,2025-12-10
+7,Club Brugge KV,Kairat Almaty,K. Sabbe,H. Siquet,85,2026-01-20
+7,Kairat Almaty,Club Brugge KV,D. Kasabulat,M. Abish,80,2026-01-20
+7,Kairat Almaty,Club Brugge KV,E. Tapalov,J. Stanojev,80,2026-01-20
+7,Club Brugge KV,Kairat Almaty,R. Vermant,N. Tresoldi,78,2026-01-20
+7,Club Brugge KV,Kairat Almaty,C. Forbs,S. Campbell,78,2026-01-20
+7,Club Brugge KV,Kairat Almaty,J. Seys,B. Meijer,78,2026-01-20
+7,Kairat Almaty,Club Brugge KV,D. Glazer,A. Sadybekov,76,2026-01-20
+7,Kairat Almaty,Club Brugge KV,Edmilson,M. Birkurmanov,76,2026-01-20
+7,Kairat Almaty,Club Brugge KV,J. G. C. Monteiro,Ricardinho,76,2026-01-20
+7,Club Brugge KV,Kairat Almaty,H. Vetlesen,C. Sandra,64,2026-01-20
+7,Bodø/Glimt,Manchester City,S. Fet,I. D. Määttä,82,2026-01-20
+7,Bodø/Glimt,Manchester City,H. Evjen,U. Saltnes,76,2026-01-20
+7,Bodø/Glimt,Manchester City,O. D. Blomberg,S. Auklend,75,2026-01-20
+7,Bodø/Glimt,Manchester City,K. Høgh,A. Helmersen,75,2026-01-20
+7,Manchester City,Bodø/Glimt,P. Foden,O. Marmoush,70,2026-01-20
+7,FC København,Napoli,B. Meling,M. Garananga,81,2026-01-20
+7,FC København,Napoli,M. E. Madsen,V. Claesson,81,2026-01-20
+7,Napoli,FC København,E. Elmas,L. Lucca,80,2026-01-20
+7,Napoli,FC København,M. Gutiérrez,G. Ambrosino,75,2026-01-20
+7,FC København,Napoli,A. Cornelius,W. Clem,63,2026-01-20
+7,FC København,Napoli,E. Achouri,J. Larsson,63,2026-01-20
+7,Napoli,FC København,L. Spinazzola,M. Olivera,63,2026-01-20
+7,Napoli,FC København,A. Vergara,N. Lang,62,2026-01-20
+7,FC København,Napoli,V. B. Dadason,P. Hatzidiakos,36,2026-01-20
+7,Inter,Arsenal,P. Zielinski,A. Diouf,82,2026-01-20
+7,Inter,Arsenal,L. Henrique,A. Bonny,82,2026-01-20
+7,Arsenal,Inter,L. Trossard,G. Martinelli,79,2026-01-20
+7,Arsenal,Inter,C. Mosquera,Gabriel,75,2026-01-20
+7,Arsenal,Inter,G. Jesus,V. Gyökeres,75,2026-01-20
+7,Arsenal,Inter,E. Eze,D. Rice,64,2026-01-20
+7,Arsenal,Inter,J. Timber,B. White,64,2026-01-20
+7,Inter,Arsenal,L. Martínez,F. P. Esposito,63,2026-01-20
+7,Inter,Arsenal,N. Barella,D. Frattesi,63,2026-01-20
+7,Olympiacos FC,Bayer 04 Leverkusen,Chiquinho,L. Scipioni,82,2026-01-20
+7,Bayer 04 Leverkusen,Olympiacos FC,E. Poku,M. Culbreath,81,2026-01-20
+7,Olympiacos FC,Bayer 04 Leverkusen,G. Martins,B. Onyemaechi,79,2026-01-20
+7,Olympiacos FC,Bayer 04 Leverkusen,M. Taremi,A. E. Kaabi,74,2026-01-20
+7,Olympiacos FC,Bayer 04 Leverkusen,L. Pirola,G. Biancone,74,2026-01-20
+7,Olympiacos FC,Bayer 04 Leverkusen,C. Mouzakitis,D. Garcia,73,2026-01-20
+7,Bayer 04 Leverkusen,Olympiacos FC,C. Kofane,P. Schick,70,2026-01-20
+7,Bayer 04 Leverkusen,Olympiacos FC,I. Maza,Arthur,70,2026-01-20
+7,Bayer 04 Leverkusen,Olympiacos FC,L. Vazquez,M. Tillman,58,2026-01-20
+7,AS Monaco,Real Madrid,A. Golovin,L. Michal,84,2026-01-20
+7,Real Madrid,AS Monaco,F. Valverde,D. Meso,83,2026-01-20
+7,Real Madrid,AS Monaco,E. Camavinga,F. Garcia,77,2026-01-20
+7,Real Madrid,AS Monaco,A. Güler,D. Carvajal,76,2026-01-20
+7,AS Monaco,Real Madrid,F. Balogun,G. Ilenikhena,73,2026-01-20
+7,AS Monaco,Real Madrid,D. Zakaria,A. Bamba,73,2026-01-20
+7,Real Madrid,AS Monaco,F. Mastantuono,G. García,71,2026-01-20
+7,AS Monaco,Real Madrid,Vanderson,K. Ouattara,61,2026-01-20
+7,AS Monaco,Real Madrid,A. Fati,M. Coulibaly,61,2026-01-20
+7,Real Madrid,AS Monaco,R. Asencio,D. Ceballos,46,2026-01-20
+7,Sporting CP,Paris Saint-Germain,F. Trincão,G. Kochorashvili,90,2026-01-20
+7,Sporting CP,Paris Saint-Germain,G. Catamo,A. Santos,87,2026-01-20
+7,Sporting CP,Paris Saint-Germain,J. Simões,D. Bragança,87,2026-01-20
+7,Paris Saint-Germain,Sporting CP,F. Ruiz,I. Zabarnyi,80,2026-01-20
+7,Paris Saint-Germain,Sporting CP,B. Barcola,G. Ramos,71,2026-01-20
+7,Paris Saint-Germain,Sporting CP,S. Mayulu,K. Kvaratskhelia,66,2026-01-20
+7,Sporting CP,Paris Saint-Germain,R. Mangas,G. Vagiannidis,63,2026-01-20
+7,Borussia Dortmund,Tottenham Hotspur,Y. Couto,M. Beier,76,2026-01-20
+7,Tottenham Hotspur,Borussia Dortmund,D. Solanke,R. K. Muani,70,2026-01-20
+7,Borussia Dortmund,Tottenham Hotspur,F. Nmecha,C. Chukwuemeka,64,2026-01-20
+7,Borussia Dortmund,Tottenham Hotspur,K. Adeyemi,F. Silva,64,2026-01-20
+7,Tottenham Hotspur,Borussia Dortmund,L. Bergvall,J. Byfield,62,2026-01-20
+7,Borussia Dortmund,Tottenham Hotspur,S. Guirassy,E. Can,46,2026-01-20
+7,Borussia Dortmund,Tottenham Hotspur,J. Brandt,J. Ryerson,46,2026-01-20
+7,AFC Ajax,Villarreal,O. Gloukh,O. Edvardsen,84,2026-01-20
+7,AFC Ajax,Villarreal,O. Wijndal,K. Fitz-Jim,84,2026-01-20
+7,Villarreal,AFC Ajax,T. Partey,D. Parejo,74,2026-01-20
+7,Villarreal,AFC Ajax,N. Pépé,G. Mikautadze,72,2026-01-20
+7,Villarreal,AFC Ajax,A. Perez,G. Moreno,72,2026-01-20
+7,AFC Ajax,Villarreal,J. Mokio,S. Steur,71,2026-01-20
+7,AFC Ajax,Villarreal,K. Dolberg,R. Bounida,71,2026-01-20
+7,AFC Ajax,Villarreal,Y. Regeer,K. Itakura,54,2026-01-20
+7,Villarreal,AFC Ajax,A. Moleiro,T. Buchanan,46,2026-01-20
+7,Galatasaray,Atlético Madrid,L. Torreira,I. Gundogan,88,2026-01-21
+7,Galatasaray,Atlético Madrid,B. A. Yılmaz,I. Jakobs,80,2026-01-21
+7,Atlético Madrid,Galatasaray,J. Álvarez,N. González,73,2026-01-21
+7,Galatasaray,Atlético Madrid,Y. Akgün,G. Sara,65,2026-01-21
+7,Atlético Madrid,Galatasaray,A. Sørloth,A. Griezmann,61,2026-01-21
+7,Atlético Madrid,Galatasaray,Koke,J. Cardoso,56,2026-01-21
+7,Atlético Madrid,Galatasaray,P. Barrios,R. Le Normand,56,2026-01-21
+7,Atlético Madrid,Galatasaray,T. Almada,A. Baena,46,2026-01-21
+7,Qarabağ FK,Eintracht Frankfurt,C. Durán,M. Qurbanlı,90,2026-01-21
+7,Eintracht Frankfurt,Qarabağ FK,N. Collins,A. Staff,85,2026-01-21
+7,Eintracht Frankfurt,Qarabağ FK,H. Larsson,O. Højlund,85,2026-01-21
+7,Qarabağ FK,Eintracht Frankfurt,J. Montiel,O. Kashchuk,84,2026-01-21
+7,Qarabağ FK,Eintracht Frankfurt,L. Andrade,E. Addai,84,2026-01-21
+7,Eintracht Frankfurt,Qarabağ FK,A. Knauff,J. Bahoya,79,2026-01-21
+7,Eintracht Frankfurt,Qarabağ FK,C. Uzun,M. Gotze,71,2026-01-21
+7,Eintracht Frankfurt,Qarabağ FK,R. Doan,F. Chaïbi,71,2026-01-21
+7,Atalanta,Athletic Club,L. Bernasconi,K. Sulemana,82,2026-01-21
+7,Athletic Club,Atalanta,A. Gorosabel,J. Areso,81,2026-01-21
+7,Atalanta,Athletic Club,D. Zappacosta,L. Samardžić,76,2026-01-21
+7,Atalanta,Athletic Club,S. Kolasinac,H. Ahanor,76,2026-01-21
+7,Athletic Club,Atalanta,U. Gómez,N. Serrano,68,2026-01-21
+7,Atalanta,Athletic Club,G. Scamacca,N. Krstović,66,2026-01-21
+7,Atalanta,Athletic Club,N. Zalewski,A. Lookman,65,2026-01-21
+7,Athletic Club,Atalanta,A. R. Mora,I. De Galarreta,59,2026-01-21
+7,Athletic Club,Atalanta,M. Jauregizar,M. Vesga,59,2026-01-21
+7,Athletic Club,Atalanta,A. Boiro,O. Sancet,46,2026-01-21
+7,Pafos FC,Chelsea,V. Dragomir,G. Michael,89,2026-01-21
+7,Pafos FC,Chelsea,K. Sema,B. Langa,83,2026-01-21
+7,Pafos FC,Chelsea,M. Orsic,M. Bassouamina,83,2026-01-21
+7,Chelsea,Pafos FC,J. Hato,M. Cucurella,70,2026-01-21
+7,Chelsea,Pafos FC,A. Garnacho,J. Gittens,70,2026-01-21
+7,Chelsea,Pafos FC,L. Delap,J. Pedro,70,2026-01-21
+7,Pafos FC,Chelsea,Jajá,D. Quina,65,2026-01-21
+7,Pafos FC,Chelsea,A. Silva,L. Dimata,65,2026-01-21
+7,Chelsea,Pafos FC,R. James,Estêvão,46,2026-01-21
+7,Chelsea,Pafos FC,F. Jørgensen,R. Sánchez,46,2026-01-21
+7,FC Bayern München,Royale Union Saint-Gilloise,J. Kimmich,L. Goretzka,90,2026-01-21
+7,FC Bayern München,Royale Union Saint-Gilloise,M. Olise,S. Gnabry,90,2026-01-21
+7,Royale Union Saint-Gilloise,FC Bayern München,P. David,S. Keita,82,2026-01-21
+7,Royale Union Saint-Gilloise,FC Bayern München,A. Zorgane,R. Schoofs,82,2026-01-21
+7,FC Bayern München,Royale Union Saint-Gilloise,L. Karl,H. Itō,67,2026-01-21
+7,FC Bayern München,Royale Union Saint-Gilloise,R. Guerreiro,A. Davies,67,2026-01-21
+7,Royale Union Saint-Gilloise,FC Bayern München,R. Florucz,L. Patris,67,2026-01-21
+7,Royale Union Saint-Gilloise,FC Bayern München,G. Smith,F. Leysen,67,2026-01-21
+7,Royale Union Saint-Gilloise,FC Bayern München,A. A. E. Hadj,M. Fuseini,67,2026-01-21
+7,Juventus,Benfica,M. Locatelli,T. Koopmeiners,87,2026-01-21
+7,Juventus,Benfica,K. Yıldız,F. Kostić,82,2026-01-21
+7,Benfica,Juventus,G. Prestianni,J. Rêgo,77,2026-01-21
+7,Juventus,Benfica,A. Cambiaso,J. Cabal,70,2026-01-21
+7,Juventus,Benfica,J. David,L. Openda,70,2026-01-21
+7,Benfica,Juventus,G. Sudakov,E. Barrenechea,69,2026-01-21
+7,Benfica,Juventus,A. Schjelderup,F. Ivanović,69,2026-01-21
+7,Juventus,Benfica,F. Miretti,F. Conceição,46,2026-01-21
+7,Newcastle United,PSV Eindhoven,K. Trippier,J. Willock,87,2026-01-21
+7,PSV Eindhoven,Newcastle United,G. Til,R. Flamingo,73,2026-01-21
+7,Newcastle United,PSV Eindhoven,Y. Wissa,N. Woltemade,72,2026-01-21
+7,Newcastle United,PSV Eindhoven,A. Gordon,A. Elanga,72,2026-01-21
+7,Newcastle United,PSV Eindhoven,Joelinton,J. Ramsey,72,2026-01-21
+7,PSV Eindhoven,Newcastle United,I. Perisic,C. Driouech,62,2026-01-21
+7,PSV Eindhoven,Newcastle United,D. Man,E. Bajraktarević,62,2026-01-21
+7,Newcastle United,PSV Eindhoven,B. Guimarães,L. Miley,45,2026-01-21
+7,PSV Eindhoven,Newcastle United,A. Salah-Eddine,A. Obispo,45,2026-01-21
+7,Liverpool,Olympique de Marseille,H. Ekitiké,C. Gakpo,79,2026-01-21
+7,Liverpool,Olympique de Marseille,F. Wirtz,C. Jones,79,2026-01-21
+7,Olympique de Marseille,Liverpool,G. Kondogbia,B. Nadir,68,2026-01-21
+7,Olympique de Marseille,Liverpool,H. J. Traorè,I. Paixão,68,2026-01-21
+7,Olympique de Marseille,Liverpool,A. Gouiri,P. Aubameyang,67,2026-01-21
+7,SK Slavia Praha,FC Barcelona,V. Kušej,M. Chytil,79,2026-01-21
+7,FC Barcelona,SK Slavia Praha,A. Balde,R. Araújo,79,2026-01-21
+7,FC Barcelona,SK Slavia Praha,F. López,M. Bernal,78,2026-01-21
+7,SK Slavia Praha,FC Barcelona,Y. Sanyang,M. Cham-Saračević,72,2026-01-21
+7,SK Slavia Praha,FC Barcelona,T. Chory,I. Schranz,65,2026-01-21
+7,FC Barcelona,SK Slavia Praha,R. Bardghji,M. Rashford,61,2026-01-21
+7,FC Barcelona,SK Slavia Praha,Pedri,D. Olmo,61,2026-01-21
+7,SK Slavia Praha,FC Barcelona,D. Moses,T. Vlček,46,2026-01-21
+7,SK Slavia Praha,FC Barcelona,T. Holes,D. Doudera,46,2026-01-21
+8,Olympiacos FC,AFC Ajax,G. Martins,B. Onyemaechi,88,2026-01-28
+8,Olympiacos FC,AFC Ajax,Rodinei,D. Podence,88,2026-01-28
+8,AFC Ajax,Olympiacos FC,O. Wijndal,P. Nash,88,2026-01-28
+8,AFC Ajax,Olympiacos FC,O. Gloukh,J. Mokio,80,2026-01-28
+8,AFC Ajax,Olympiacos FC,K. Dolberg,W. Weghorst,80,2026-01-28
+8,Olympiacos FC,AFC Ajax,A. E. Kaabi,Chiquinho,72,2026-01-28
+8,Olympiacos FC,AFC Ajax,C. Mouzakitis,L. Scipioni,72,2026-01-28
+8,AFC Ajax,Olympiacos FC,D. Klaassen,R. Bounida,69,2026-01-28
+8,AFC Ajax,Olympiacos FC,S. Steur,O. Edvardsen,69,2026-01-28
+8,Olympiacos FC,AFC Ajax,L. Pirola,G. Biancone,28,2026-01-28
+8,AS Monaco,Juventus,A. Golovin,K. Ouattara,89,2026-01-28
+8,Juventus,AS Monaco,K. Thuram,J. David,83,2026-01-28
+8,AS Monaco,Juventus,M. Coulibaly,A. Bamba,78,2026-01-28
+8,Juventus,AS Monaco,J. Cabal,A. Cambiaso,75,2026-01-28
+8,Juventus,AS Monaco,T. Koopmeiners,E. Zhegrova,73,2026-01-28
+8,Juventus,AS Monaco,F. Miretti,V. Adžić,46,2026-01-28
+8,Juventus,AS Monaco,F. Conceição,K. Yıldız,46,2026-01-28
+8,Arsenal,Kairat Almaty,C. Norgaard,I. Ibrahim,89,2026-01-28
+8,Kairat Almaty,Arsenal,J. G. C. Monteiro,R. Bagdat,79,2026-01-28
+8,Arsenal,Kairat Almaty,V. Gyökeres,G. Jesus,77,2026-01-28
+8,Arsenal,Kairat Almaty,G. Martinelli,B. Bailey-Joseph,77,2026-01-28
+8,Kairat Almaty,Arsenal,L. Mata,L. Kurgin,70,2026-01-28
+8,Kairat Almaty,Arsenal,D. Glazer,D. Kasabulat,70,2026-01-28
+8,Kairat Almaty,Arsenal,E. Tapalov,Ricardinho,59,2026-01-28
+8,Kairat Almaty,Arsenal,Edmilson,V. Gromyko,59,2026-01-28
+8,Arsenal,Kairat Almaty,K. Havertz,M. Odegaard,46,2026-01-28
+8,Arsenal,Kairat Almaty,R. Calafiori,P. Hincapié,46,2026-01-28
+8,Sporting CP,Athletic Club,F. Trincão,A. Santos,87,2026-01-28
+8,Athletic Club,Sporting CP,G. Guruzeta,A. Hierro,81,2026-01-28
+8,Athletic Club,Sporting CP,R. Navarro,N. Serrano,81,2026-01-28
+8,Athletic Club,Sporting CP,I. R. d. Galarreta,M. Vesga,66,2026-01-28
+8,Athletic Club,Sporting CP,U. Gómez,S. Sánchez,66,2026-01-28
+8,Sporting CP,Athletic Club,O. Diomande,E. Quaresma,54,2026-01-28
+8,Sporting CP,Athletic Club,J. Simões,H. Morita,54,2026-01-28
+8,Sporting CP,Athletic Club,D. Bragança,P. Gonçalves,54,2026-01-28
+8,Athletic Club,Sporting CP,O. Sancet,Á. Berenguer,50,2026-01-28
+8,Sporting CP,Athletic Club,G. Inácio,M. Reis,26,2026-01-28
+8,Bodø/Glimt,Atlético Madrid,J. Gundersen,H. Aleesami,90,2026-01-28
+8,Bodø/Glimt,Atlético Madrid,H. Evjen,A. Klynge,90,2026-01-28
+8,Bodø/Glimt,Atlético Madrid,K. Høgh,A. Helmersen,83,2026-01-28
+8,Bodø/Glimt,Atlético Madrid,S. Fet,I. D. Määttä,83,2026-01-28
+8,Atlético Madrid,Bodø/Glimt,P. Barrios,R. Le Normand,78,2026-01-28
+8,Bodø/Glimt,Atlético Madrid,O. D. Blomberg,S. Auklend,74,2026-01-28
+8,Atlético Madrid,Bodø/Glimt,N. González,N. Molina,64,2026-01-28
+8,Atlético Madrid,Bodø/Glimt,Koke,J. Cardoso,64,2026-01-28
+8,Atlético Madrid,Bodø/Glimt,A. Baena,T. Almada,57,2026-01-28
+8,Atlético Madrid,Bodø/Glimt,J. Gimenez,M. Ruggeri,57,2026-01-28
+8,Bayer 04 Leverkusen,Villarreal,A. Grimaldo,E. Tapsoba,89,2026-01-28
+8,Villarreal,Bayer 04 Leverkusen,S. Comesaña,P. Gueye,83,2026-01-28
+8,Bayer 04 Leverkusen,Villarreal,I. Maza,E. Poku,70,2026-01-28
+8,Bayer 04 Leverkusen,Villarreal,A. García,E. Palacios,70,2026-01-28
+8,Villarreal,Bayer 04 Leverkusen,N. Pépé,D. Budesca,69,2026-01-28
+8,Villarreal,Bayer 04 Leverkusen,A. Diatta,D. Parejo,65,2026-01-28
+8,Bayer 04 Leverkusen,Villarreal,L. Vázquez,Arthur,62,2026-01-28
+8,Bayer 04 Leverkusen,Villarreal,P. Schick,C. Kofane,62,2026-01-28
+8,Villarreal,Bayer 04 Leverkusen,T. Partey,G. Mikautadze,46,2026-01-28
+8,Villarreal,Bayer 04 Leverkusen,T. Buchanan,H. Lopez,46,2026-01-28
+8,Benfica,Real Madrid,A. Schjelderup,A. Silva,90,2026-01-28
+8,Benfica,Real Madrid,V. Pavlidis,F. Ivanović,90,2026-01-28
+8,Benfica,Real Madrid,G. Prestianni,J. Rêgo,87,2026-01-28
+8,Benfica,Real Madrid,G. Sudakov,E. Barrenechea,83,2026-01-28
+8,Real Madrid,Benfica,A. Güler,B. Díaz,79,2026-01-28
+8,Real Madrid,Benfica,Á. Carreras,J. Cestero,79,2026-01-28
+8,Real Madrid,Benfica,D. Huijsen,D. Alaba,78,2026-01-28
+8,Real Madrid,Benfica,A. Tchouaméni,E. Camavinga,55,2026-01-28
+8,Real Madrid,Benfica,F. Mastantuono,Rodrygo,55,2026-01-28
+8,Borussia Dortmund,Inter,F. Mané,Y. Couto,89,2026-01-28
+8,Inter,Borussia Dortmund,M. Thuram,L. Martínez,88,2026-01-28
+8,Inter,Borussia Dortmund,P. Sučić,A. Bastoni,88,2026-01-28
+8,Inter,Borussia Dortmund,H. Mkhitaryan,A. Diouf,88,2026-01-28
+8,Borussia Dortmund,Inter,R. Bensebaini,J. Brandt,82,2026-01-28
+8,Borussia Dortmund,Inter,F. Silva,C. Chukwuemeka,81,2026-01-28
+8,Inter,Borussia Dortmund,P. Zieliński,D. Frattesi,74,2026-01-28
+8,Borussia Dortmund,Inter,S. Guirassy,K. Adeyemi,68,2026-01-28
+8,Inter,Borussia Dortmund,A. Bonny,F. P. Esposito,57,2026-01-28
+8,Olympique de Marseille,Club Brugge KV,A. Gouiri,B. Nadir,86,2026-01-28
+8,Olympique de Marseille,Club Brugge KV,G. Kondogbia,M. O'Riley,86,2026-01-28
+8,Club Brugge KV,Olympique de Marseille,A. Stanković,H. Vetlesen,86,2026-01-28
+8,Club Brugge KV,Olympique de Marseille,R. Vermant,N. Tresoldi,86,2026-01-28
+8,Club Brugge KV,Olympique de Marseille,K. Sabbe,H. Siquet,86,2026-01-28
+8,Club Brugge KV,Olympique de Marseille,J. Ordóñez,J. Spileers,72,2026-01-28
+8,Club Brugge KV,Olympique de Marseille,M. Diakhon,C. Tzolis,70,2026-01-28
+8,Olympique de Marseille,Club Brugge KV,A. Murillo,P. Aubameyang,53,2026-01-28
+8,Olympique de Marseille,Club Brugge KV,H. J. Traorè,I. Paixão,46,2026-01-28
+8,Tottenham Hotspur,Eintracht Frankfurt,D. Udogie,J. Byfield,89,2026-01-28
+8,Tottenham Hotspur,Eintracht Frankfurt,R. K. Muani,D. Scarlett,84,2026-01-28
+8,Eintracht Frankfurt,Tottenham Hotspur,M. Gotze,M. Dills,83,2026-01-28
+8,Eintracht Frankfurt,Tottenham Hotspur,H. Larsson,J. Bahoya,83,2026-01-28
+8,Tottenham Hotspur,Eintracht Frankfurt,W. Odobert,D. Solanke,73,2026-01-28
+8,Eintracht Frankfurt,Tottenham Hotspur,O. Højlund,M. Dahoud,72,2026-01-28
+8,Eintracht Frankfurt,Tottenham Hotspur,E. Skhiri,F. Chaïbi,72,2026-01-28
+8,Eintracht Frankfurt,Tottenham Hotspur,N. Brown,R. Doan,72,2026-01-28
+8,FC Barcelona,FC København,R. Lewandowski,F. Torres,82,2026-01-28
+8,FC Barcelona,FC København,F. López,M. Casadó,79,2026-01-28
+8,FC København,FC Barcelona,M. Elyounoussi,O. Højer,78,2026-01-28
+8,FC Barcelona,FC København,D. Olmo,M. Rashford,72,2026-01-28
+8,FC Barcelona,FC København,G. Martín,R. Araújo,72,2026-01-28
+8,FC København,FC Barcelona,E. Achouri,Robert,65,2026-01-28
+8,FC København,FC Barcelona,J. Larsson,Y. Moukoko,65,2026-01-28
+8,FC København,FC Barcelona,W. Clem,M. E. Madsen,56,2026-01-28
+8,FC København,FC Barcelona,V. B. Dadason,V. Claesson,55,2026-01-28
+8,FC Barcelona,FC København,E. García,M. Bernal,46,2026-01-28
+8,Qarabağ FK,Liverpool,J. Montiel,M. Qurbanlı,85,2026-01-28
+8,Qarabağ FK,Liverpool,A. Zoubir,E. Addai,81,2026-01-28
+8,Liverpool,Qarabağ FK,D. Szoboszlai,A. Nallo,75,2026-01-28
+8,Liverpool,Qarabağ FK,C. Gakpo,F. Chiesa,74,2026-01-28
+8,Qarabağ FK,Liverpool,L. Andrade,Dani Bolt,68,2026-01-28
+8,Qarabağ FK,Liverpool,C. Durán,N. Akhundzade,68,2026-01-28
+8,Qarabağ FK,Liverpool,E. Cafarquliyev,T. Bayramov,67,2026-01-28
+8,Liverpool,Qarabağ FK,H. Ekitiké,T. Nyoni,67,2026-01-28
+8,Liverpool,Qarabağ FK,F. Wirtz,R. Ngumoha,67,2026-01-28
+8,Liverpool,Qarabağ FK,J. Frimpong,W. Endo,4,2026-01-28
+8,Galatasaray,Manchester City,G. Sara,M. Icardi,86,2026-01-28
+8,Manchester City,Galatasaray,R. Cherki,N. González,82,2026-01-28
+8,Galatasaray,Manchester City,L. Sané,K. Ayhan,80,2026-01-28
+8,Galatasaray,Manchester City,B. A. Yılmaz,Y. Akgün,68,2026-01-28
+8,Galatasaray,Manchester City,A. Bardakcı,E. Elmalı,68,2026-01-28
+8,Galatasaray,Manchester City,I. Gundogan,L. Torreira,68,2026-01-28
+8,Manchester City,Galatasaray,O. Marmoush,T. Reijnders,67,2026-01-28
+8,Manchester City,Galatasaray,J. Doku,P. Foden,37,2026-01-28
+8,Chelsea,Napoli,J. Gittens,B. Badiashile,90,2026-01-28
+8,Napoli,Chelsea,L. Spinazzola,S. Beukema,82,2026-01-28
+8,Napoli,Chelsea,E. Elmas,R. Lukaku,82,2026-01-28
+8,Chelsea,Napoli,Estêvão,A. Garnacho,74,2026-01-28
+8,Napoli,Chelsea,Juan Jesus,M. Gutiérrez,67,2026-01-28
+8,Chelsea,Napoli,M. Gusto,T. Chalobah,59,2026-01-28
+8,Chelsea,Napoli,A. Santos,J. Gittens,59,2026-01-28
+8,Chelsea,Napoli,P. Neto,C. Palmer,46,2026-01-28
+8,FC Bayern München,PSV Eindhoven,T. Bischof,S. Boey,85,2026-01-28
+8,PSV Eindhoven,FC Bayern München,I. Perisic,C. Driouech,82,2026-01-28
+8,FC Bayern München,PSV Eindhoven,N. Jackson,H. Kane,62,2026-01-28
+8,FC Bayern München,PSV Eindhoven,J. Musiala,S. Gnabry,62,2026-01-28
+8,FC Bayern München,PSV Eindhoven,D. Upamecano,A. Davies,62,2026-01-28
+8,FC Bayern München,PSV Eindhoven,L. Karl,M. Olise,62,2026-01-28
+8,PSV Eindhoven,FC Bayern München,D. Man,N. Fernandez,46,2026-01-28
+8,Pafos FC,SK Slavia Praha,K. Pileas,L. Dimata,90,2026-01-28
+8,Pafos FC,SK Slavia Praha,D. Quina,K. Sema,85,2026-01-28
+8,Pafos FC,SK Slavia Praha,Jajá,M. Bassouamina,77,2026-01-28
+8,SK Slavia Praha,Pafos FC,M. Cham-Saračević,V. Kušej,77,2026-01-28
+8,SK Slavia Praha,Pafos FC,I. Ogbu,D. Hashioka,61,2026-01-28
+8,SK Slavia Praha,Pafos FC,Y. Mbodji,J. Boril,55,2026-01-28
+8,SK Slavia Praha,Pafos FC,E. Prekop,T. Chory,55,2026-01-28
+8,SK Slavia Praha,Pafos FC,S. Chaloupek,Y. Sanyang,46,2026-01-28
+8,Paris Saint-Germain,Newcastle United,W. Zaïre-Emery,S. Mayulu,87,2026-01-28
+8,Paris Saint-Germain,Newcastle United,J. Neves,I. Mbaye,87,2026-01-28
+8,Newcastle United,Paris Saint-Germain,N. Woltemade,Y. Wissa,79,2026-01-28
+8,Paris Saint-Germain,Newcastle United,B. Barcola,G. Ramos,70,2026-01-28
+8,Newcastle United,Paris Saint-Germain,J. Willock,H. Barnes,68,2026-01-28
+8,Newcastle United,Paris Saint-Germain,A. Elanga,A. Gordon,67,2026-01-28
+8,Paris Saint-Germain,Newcastle United,K. Kvaratskhelia,D. Doué,22,2026-01-28
+8,Royale Union Saint-Gilloise,Atalanta,A. A. E. Hadj,F. Leysen,90,2026-01-28
+8,Royale Union Saint-Gilloise,Atalanta,G. Smith,O. Niang,85,2026-01-28
+8,Atalanta,Royale Union Saint-Gilloise,O. Kossounou,M. Pašalić,74,2026-01-28
+8,Atalanta,Royale Union Saint-Gilloise,N. Krstović,G. Scamacca,61,2026-01-28
+8,Royale Union Saint-Gilloise,Atalanta,A. Zorgane,R. Schoofs,57,2026-01-28
+8,Royale Union Saint-Gilloise,Atalanta,R. Florucz,M. Fuseini,57,2026-01-28
+8,Atalanta,Royale Union Saint-Gilloise,Y. Musah,M. de Roon,52,2026-01-28
+8,Atalanta,Royale Union Saint-Gilloise,L. Samardžić,C. De Ketelaere,52,2026-01-28
+8,Atalanta,Royale Union Saint-Gilloise,A. Lookman,K. Sulemana,51,2026-01-28
+Playoff round,Bodø/Glimt,Inter,J. Gundersen,H. Aleesami,89,2026-02-18
+Playoff round,Inter,Bodø/Glimt,N. Barella,A. Diouf,89,2026-02-18
+Playoff round,Bodø/Glimt,Inter,S. Fet,I. D. Määttä,89,2026-02-18
+Playoff round,Bodø/Glimt,Inter,O. D. Blomberg,S. Auklend,78,2026-02-18
+Playoff round,Bodø/Glimt,Inter,K. Høgh,A. Helmersen,78,2026-02-18
+Playoff round,Inter,Bodø/Glimt,H. Mkhitaryan,P. Zieliński,76,2026-02-18
+Playoff round,Inter,Bodø/Glimt,F. P. Esposito,A. Bonny,76,2026-02-18
+Playoff round,Inter,Bodø/Glimt,M. Darmian,L. Henrique,75,2026-02-18
+Playoff round,Inter,Bodø/Glimt,L. Martínez,M. Thuram,61,2026-02-18
+Playoff round,Atlético Madrid,Club Brugge KV,Koke,J. Cardoso,90,2026-02-18
+Playoff round,Atlético Madrid,Club Brugge KV,N. Molina,R. Le Normand,90,2026-02-18
+Playoff round,Club Brugge KV,Atlético Madrid,A. Stanković,F. Lemaréchal,86,2026-02-18
+Playoff round,Club Brugge KV,Atlético Madrid,J. Seys,B. Meijer,86,2026-02-18
+Playoff round,Club Brugge KV,Atlético Madrid,M. Diakhon,S. Campbell,82,2026-02-18
+Playoff round,Club Brugge KV,Atlético Madrid,K. Sabbe,H. Siquet,81,2026-02-18
+Playoff round,Club Brugge KV,Atlético Madrid,N. Tresoldi,R. Vermant,76,2026-02-18
+Playoff round,Atlético Madrid,Club Brugge KV,A. Griezmann,A. Sørloth,66,2026-02-18
+Playoff round,Atlético Madrid,Club Brugge KV,A. Lookman,A. Baena,62,2026-02-18
+Playoff round,Club Brugge KV,Atlético Madrid,B. Mechele,B. Meijer,88,2026-02-24
+Playoff round,Atlético Madrid,Club Brugge KV,J. Cardoso,R. Mendoza,83,2026-02-24
+Playoff round,Atlético Madrid,Club Brugge KV,G. Simeone,J. Gimenez,83,2026-02-24
+Playoff round,Club Brugge KV,Atlético Madrid,C. Tzolis,G. Nilsson,82,2026-02-24
+Playoff round,Club Brugge KV,Atlético Madrid,J. Seys,F. Lemaréchal,82,2026-02-24
+Playoff round,Atlético Madrid,Club Brugge KV,A. Baena,A. Lookman,70,2026-02-24
+Playoff round,Atlético Madrid,Club Brugge KV,Koke,N. Molina,70,2026-02-24
+Playoff round,Club Brugge KV,Atlético Madrid,H. Vetlesen,M. Diakhon,65,2026-02-24
+Playoff round,Club Brugge KV,Atlético Madrid,N. Tresoldi,R. Vermant,65,2026-02-24
+Playoff round,Atlético Madrid,Club Brugge KV,J. Álvarez,A. Griezmann,58,2026-02-24
+Playoff round,Newcastle United,Qarabağ FK,J. Murphy,L. Shahar,87,2026-02-24
+Playoff round,Qarabağ FK,Newcastle United,E. Cafarquliyev,T. Bayramov,79,2026-02-24
+Playoff round,Qarabağ FK,Newcastle United,M. Janković,M. Qurbanlı,79,2026-02-24
+Playoff round,Qarabağ FK,Newcastle United,A. Zoubir,E. Addai,79,2026-02-24
+Playoff round,Newcastle United,Qarabağ FK,W. Osula,Y. Wissa,73,2026-02-24
+Playoff round,Qarabağ FK,Newcastle United,C. Durán,O. Kashchuk,69,2026-02-24
+Playoff round,Qarabağ FK,Newcastle United,J. Montiel,K. Borges,62,2026-02-24
+Playoff round,Newcastle United,Qarabağ FK,Joelinton,A. Gordon,54,2026-02-24
+Playoff round,Newcastle United,Qarabağ FK,S. Botman,J. Willock,54,2026-02-24
+Playoff round,Newcastle United,Qarabağ FK,K. Trippier,L. Hall,54,2026-02-24
+Playoff round,Olympiacos FC,Bayer 04 Leverkusen,G. Martins,B. Onyemaechi,89,2026-02-24
+Playoff round,Olympiacos FC,Bayer 04 Leverkusen,D. Garcia,Clayton,89,2026-02-24
+Playoff round,Olympiacos FC,Bayer 04 Leverkusen,C. Mouzakitis,L. Scipioni,79,2026-02-24
+Playoff round,Bayer 04 Leverkusen,Olympiacos FC,L. Vazquez,Arthur,77,2026-02-24
+Playoff round,Bayer 04 Leverkusen,Olympiacos FC,J. Hofmann,M. Culbreath,73,2026-02-24
+Playoff round,Bayer 04 Leverkusen,Olympiacos FC,E. Palacios,E. Fernández,73,2026-02-24
+Playoff round,Olympiacos FC,Bayer 04 Leverkusen,Chiquinho,André Luiz,66,2026-02-24
+Playoff round,Olympiacos FC,Bayer 04 Leverkusen,M. Taremi,A. E. Kaabi,66,2026-02-24
+Playoff round,Bayer 04 Leverkusen,Olympiacos FC,I. Maza,E. Poku,56,2026-02-24
+Playoff round,Bodø/Glimt,Inter,F. A. Bjørkan,H. Aleesami,85,2026-02-24
+Playoff round,Bodø/Glimt,Inter,H. Evjen,U. Saltnes,82,2026-02-24
+Playoff round,Inter,Bodø/Glimt,Y. Bisseck,D. Dumfries,81,2026-02-24
+Playoff round,Inter,Bodø/Glimt,F. Dimarco,C. Augusto,81,2026-02-24
+Playoff round,Bodø/Glimt,Inter,K. Høgh,A. Helmersen,77,2026-02-24
+Playoff round,Bodø/Glimt,Inter,O. D. Blomberg,I. D. Määttä,77,2026-02-24
+Playoff round,Inter,Bodø/Glimt,P. Zieliński,P. Sučić,62,2026-02-24
+Playoff round,Inter,Bodø/Glimt,L. Henrique,A. Diouf,62,2026-02-24
+Playoff round,Inter,Bodø/Glimt,D. Frattesi,A. Bonny,62,2026-02-24
+Playoff round,Atalanta,Borussia Dortmund,N. Zalewski,K. Sulemana,85,2026-02-25
+Playoff round,Atalanta,Borussia Dortmund,G. Scalvini,B. Djimsiti,77,2026-02-25
+Playoff round,Atalanta,Borussia Dortmund,S. Kolašinac,H. Ahanor,73,2026-02-25
+Playoff round,Atalanta,Borussia Dortmund,G. Scamacca,N. Krstović,72,2026-02-25
+Playoff round,Borussia Dortmund,Atalanta,J. Ryerson,Y. Couto,70,2026-02-25
+Playoff round,Borussia Dortmund,Atalanta,J. Bellingham,K. Adeyemi,70,2026-02-25
+Playoff round,Borussia Dortmund,Atalanta,M. Beier,F. Silva,60,2026-02-25
+Playoff round,Borussia Dortmund,Atalanta,J. Brandt,C. Chukwuemeka,60,2026-02-25
+Playoff round,Juventus,Galatasaray,M. Locatelli,F. Kostic,109,2026-02-25
+Playoff round,Juventus,Galatasaray,P. Kalulu,L. Openda,109,2026-02-25
+Playoff round,Juventus,Galatasaray,K. Yıldız,F. Miretti,103,2026-02-25
+Playoff round,Galatasaray,Juventus,L. Torreira,W. Singo,103,2026-02-25
+Playoff round,Galatasaray,Juventus,M. Lemina,M. Icardi,87,2026-02-25
+Playoff round,Galatasaray,Juventus,I. Jakobs,E. Elmalı,87,2026-02-25
+Playoff round,Juventus,Galatasaray,K. Thuram,V. Adžić,78,2026-02-25
+Playoff round,Galatasaray,Juventus,G. Sara,I. Gundogan,71,2026-02-25
+Playoff round,Juventus,Galatasaray,F. Conceição,E. Zhegrova,67,2026-02-25
+Playoff round,Juventus,Galatasaray,J. David,J. Boga,67,2026-02-25
+Playoff round,Galatasaray,Juventus,N. Lang,L. Sane,59,2026-02-25
+Playoff round,Galatasaray,Juventus,R. Sallai,S. Boey,59,2026-02-25
+Playoff round,AS Monaco,Paris Saint-Germain,Vanderson,S. Nibombe,90,2026-02-25
+Playoff round,Paris Saint-Germain,AS Monaco,D. Doué,G. Ramos,88,2026-02-25
+Playoff round,Paris Saint-Germain,AS Monaco,W. Zaïre-Emery,D. Fernández,87,2026-02-25
+Playoff round,Paris Saint-Germain,AS Monaco,N. Mendes,L. Hernandez,80,2026-02-25
+Playoff round,AS Monaco,Paris Saint-Germain,D. Zakaria,C. Mawissa,74,2026-02-25
+Playoff round,AS Monaco,Paris Saint-Germain,M. Akliouche,S. Adingra,74,2026-02-25
+Playoff round,AS Monaco,Paris Saint-Germain,F. Balogun,M. Biereth,74,2026-02-25
+Playoff round,Paris Saint-Germain,AS Monaco,B. Barcola,K. Lee,69,2026-02-25
+Playoff round,AS Monaco,Paris Saint-Germain,A. Bamba,J. Teze,62,2026-02-25
+Playoff round,Real Madrid,Benfica,Á. Carreras,F. Garcia,90,2026-02-25
+Playoff round,Benfica,Real Madrid,L. Barreiro,S. L. Cabral,90,2026-02-25
+Playoff round,Benfica,Real Madrid,A. Schjelderup,F. Ivanović,85,2026-02-25
+Playoff round,Benfica,Real Madrid,F. Aursnes,E. Barrenechea,85,2026-02-25
+Playoff round,Real Madrid,Benfica,A. Güler,C. Palacios,84,2026-02-25
+Playoff round,Real Madrid,Benfica,G. García,T. Pitarch,84,2026-02-25
+Playoff round,Real Madrid,Benfica,E. Camavinga,D. Alaba,77,2026-02-25
+Playoff round,Real Madrid,Benfica,R. Asencio,F. Mastantuono,77,2026-02-25
+Round of 16,Galatasaray,Liverpool,L. Torreira,I. Gundogan,90,2026-03-10
+Round of 16,Galatasaray,Liverpool,B. A. Yılmaz,E. Elmalı,90,2026-03-10
+Round of 16,Galatasaray,Liverpool,G. Sara,S. Boey,87,2026-03-10
+Round of 16,Galatasaray,Liverpool,N. Lang,Y. Akgün,77,2026-03-10
+Round of 16,Galatasaray,Liverpool,M. Lemina,R. Sallai,77,2026-03-10
+Round of 16,Liverpool,Galatasaray,F. Wirtz,C. Gakpo,73,2026-03-10
+Round of 16,Liverpool,Galatasaray,M. Salah,J. Frimpong,60,2026-03-10
+Round of 16,Liverpool,Galatasaray,M. Kerkez,A. Robertson,60,2026-03-10
+Round of 16,FC Bayern München,Atalanta,J. Stanišić,R. Guerreiro,86,2026-03-10
+Round of 16,Atalanta,FC Bayern München,K. Sulemana,L. Samardžić,73,2026-03-10
+Round of 16,FC Bayern München,Atalanta,A. Davies,T. Bischof,71,2026-03-10
+Round of 16,FC Bayern München,Atalanta,A. Pavlović,L. Goretzka,68,2026-03-10
+Round of 16,Atalanta,FC Bayern München,D. Zappacosta,R. Bellanova,67,2026-03-10
+Round of 16,Atalanta,FC Bayern München,N. Zalewski,Y. Musah,55,2026-03-10
+Round of 16,Atalanta,FC Bayern München,S. Kolašinac,H. Ahanor,55,2026-03-10
+Round of 16,FC Bayern München,Atalanta,S. Gnabry,J. Musiala,46,2026-03-10
+Round of 16,FC Bayern München,Atalanta,K. Laimer,A. Davies,46,2026-03-10
+Round of 16,Atalanta,FC Bayern München,G. Scamacca,B. Djimsiti,46,2026-03-10
+Round of 16,Tottenham Hotspur,Atlético Madrid,C. Romero,Unknown,90,2026-03-10
+Round of 16,Tottenham Hotspur,Atlético Madrid,J. Palhinha,Unknown,90,2026-03-10
+Round of 16,Tottenham Hotspur,Atlético Madrid,D. Spence,X. Simons,83,2026-03-10
+Round of 16,Atlético Madrid,Tottenham Hotspur,A. Griezmann,Koke,81,2026-03-10
+Round of 16,Atlético Madrid,Tottenham Hotspur,J. Álvarez,N. González,73,2026-03-10
+Round of 16,Atlético Madrid,Tottenham Hotspur,M. Llorente,A. Sorloth,69,2026-03-10
+Round of 16,Atlético Madrid,Tottenham Hotspur,A. Lookman,P. Barrios,69,2026-03-10
+Round of 16,Tottenham Hotspur,Atlético Madrid,Richarlison,J. Palhinha,68,2026-03-10
+Round of 16,Tottenham Hotspur,Atlético Madrid,R. K. Muani,D. Solanke,46,2026-03-10
+Round of 16,Tottenham Hotspur,Atlético Madrid,M. Tel,C. Gallagher,46,2026-03-10
+Round of 16,Tottenham Hotspur,Atlético Madrid,A. Kinský,G. Vicario,17,2026-03-10
+Round of 16,Newcastle United,FC Barcelona,H. Barnes,J. Willock,90,2026-03-10
+Round of 16,FC Barcelona,Newcastle United,R. Araújo,X. Espart,88,2026-03-10
+Round of 16,FC Barcelona,Newcastle United,F. López,F. Torres,88,2026-03-10
+Round of 16,FC Barcelona,Newcastle United,M. Bernal,M. Casadó,73,2026-03-10
+Round of 16,FC Barcelona,Newcastle United,R. Lewandowski,M. Rashford,70,2026-03-10
+Round of 16,FC Barcelona,Newcastle United,Pedri,D. Olmo,70,2026-03-10
+Round of 16,Newcastle United,FC Barcelona,W. Osula,A. Gordon,67,2026-03-10
+Round of 16,Newcastle United,FC Barcelona,K. Trippier,V. Livramento,67,2026-03-10
+Round of 16,Newcastle United,FC Barcelona,A. Elanga,J. Murphy,67,2026-03-10
+Round of 16,Bayer 04 Leverkusen,Arsenal,M. Terrier,J. Hofmann,82,2026-03-11
+Round of 16,Bayer 04 Leverkusen,Arsenal,E. Palacios,E. Fernández,82,2026-03-11
+Round of 16,Arsenal,Bayer 04 Leverkusen,E. Eze,G. Jesus,82,2026-03-11
+Round of 16,Arsenal,Bayer 04 Leverkusen,V. Gyökeres,K. Havertz,74,2026-03-11
+Round of 16,Bayer 04 Leverkusen,Arsenal,I. Maza,M. Tillman,74,2026-03-11
+Round of 16,Arsenal,Bayer 04 Leverkusen,B. Saka,N. Madueke,60,2026-03-11
+Round of 16,Bodø/Glimt,Sporting CP,H. Evjen,S. Auklend,87,2026-03-11
+Round of 16,Sporting CP,Bodø/Glimt,Luis Guilherme,D. Bragança,80,2026-03-11
+Round of 16,Bodø/Glimt,Sporting CP,S. Fet,U. Saltnes,79,2026-03-11
+Round of 16,Bodø/Glimt,Sporting CP,K. Høgh,A. Helmersen,79,2026-03-11
+Round of 16,Bodø/Glimt,Sporting CP,O. D. Blomberg,I. D. Määttä,75,2026-03-11
+Round of 16,Sporting CP,Bodø/Glimt,G. Catamo,S. Faye,63,2026-03-11
+Round of 16,Sporting CP,Bodø/Glimt,G. Vagiannidis,N. Santos,63,2026-03-11
+Round of 16,Sporting CP,Bodø/Glimt,J. Simões,H. Morita,62,2026-03-11
+Round of 16,Chelsea,Paris Saint-Germain,M. Gusto,A. Garnacho,88,2026-03-11
+Round of 16,Chelsea,Paris Saint-Germain,J. Pedro,L. Delap,83,2026-03-11
+Round of 16,Chelsea,Paris Saint-Germain,C. Palmer,R. Lavia,83,2026-03-11
+Round of 16,Paris Saint-Germain,Chelsea,W. Zaïre-Emery,L. Hernandez,78,2026-03-11
+Round of 16,Paris Saint-Germain,Chelsea,B. Barcola,S. Mayulu,77,2026-03-11
+Round of 16,Paris Saint-Germain,Chelsea,O. Dembélé,K. Lee,69,2026-03-11
+Round of 16,Paris Saint-Germain,Chelsea,D. Doué,K. Kvaratskhelia,62,2026-03-11
+Round of 16,Real Madrid,Manchester City,T. Alexander-Arnold,D. Carvajal,83,2026-03-11
+Round of 16,Manchester City,Real Madrid,E. Haaland,O. Marmoush,82,2026-03-11
+Round of 16,Real Madrid,Manchester City,T. Pitarch,M. Á. Morán,76,2026-03-11
+Round of 16,Real Madrid,Manchester City,B. Díaz,F. Mastantuono,76,2026-03-11
+Round of 16,Real Madrid,Manchester City,A. Güler,E. Camavinga,70,2026-03-11
+Round of 16,Manchester City,Real Madrid,B. Silva,R. Aït-Nouri,70,2026-03-11
+Round of 16,Manchester City,Real Madrid,A. Semenyo,R. Cherki,69,2026-03-11
+Round of 16,Manchester City,Real Madrid,Savinho,T. Reijnders,46,2026-03-11
+Round of 16,Real Madrid,Manchester City,F. Mendy,F. Garcia,46,2026-03-11
+Round of 16,Sporting CP,Bodø/Glimt,L. J. Suárez ,R. Nel,116,2026-03-17
+Round of 16,Sporting CP,Bodø/Glimt,F. Trincão,S. Faye,110,2026-03-17
+Round of 16,Sporting CP,Bodø/Glimt,M. Araújo,O. Diomande,110,2026-03-17
+Round of 16,Bodø/Glimt,Sporting CP,J. Gundersen,H. Aleesami,106,2026-03-17
+Round of 16,Bodø/Glimt,Sporting CP,S. Fet,S. Auklend,90,2026-03-17
+Round of 16,Bodø/Glimt,Sporting CP,O. D. Blomberg,I. D. Määttä,85,2026-03-17
+Round of 16,Bodø/Glimt,Sporting CP,H. Evjen,D. Bassi,84,2026-03-17
+Round of 16,Bodø/Glimt,Sporting CP,J. P. Hauge,U. Saltnes,79,2026-03-17
+Round of 16,Bodø/Glimt,Sporting CP,K. Høgh,A. Helmersen,79,2026-03-17
+Round of 16,Sporting CP,Bodø/Glimt,H. Morita,D. Bragança,68,2026-03-17
+Round of 16,Sporting CP,Bodø/Glimt,P. Gonçalves,N. Santos,68,2026-03-17
+Round of 16,Sporting CP,Bodø/Glimt,E. Quaresma,Z. Debast,64,2026-03-17
+Round of 16,Arsenal,Bayer 04 Leverkusen,V. Gyökeres,M. Lewis-Skelly,90,2026-03-17
+Round of 16,Bayer 04 Leverkusen,Arsenal,R. Andrich,E. Fernández,83,2026-03-17
+Round of 16,Bayer 04 Leverkusen,Arsenal,E. Palacios,P. Schick,70,2026-03-17
+Round of 16,Arsenal,Bayer 04 Leverkusen,E. Eze,K. Havertz,69,2026-03-17
+Round of 16,Arsenal,Bayer 04 Leverkusen,L. Trossard,G. Martinelli,69,2026-03-17
+Round of 16,Arsenal,Bayer 04 Leverkusen,B. White,C. Mosquera,69,2026-03-17
+Round of 16,Arsenal,Bayer 04 Leverkusen,M. Zubimendi,C. Norgaard,68,2026-03-17
+Round of 16,Bayer 04 Leverkusen,Arsenal,E. Poku,M. Culbreath,60,2026-03-17
+Round of 16,Bayer 04 Leverkusen,Arsenal,M. Terrier,M. Tillman,60,2026-03-17
+Round of 16,Chelsea,Paris Saint-Germain,T. Chalobah,Unknown,86,2026-03-17
+Round of 16,Paris Saint-Germain,Chelsea,K. Kvaratskhelia,K. Lee,73,2026-03-17
+Round of 16,Chelsea,Paris Saint-Germain,M. Cucurella,T. Adarabioyo,71,2026-03-17
+Round of 16,Paris Saint-Germain,Chelsea,O. Dembélé,G. Ramos,66,2026-03-17
+Round of 16,Paris Saint-Germain,Chelsea,N. Mendes,L. Hernandez,66,2026-03-17
+Round of 16,Chelsea,Paris Saint-Germain,E. Fernández,R. Lavia,60,2026-03-17
+Round of 16,Chelsea,Paris Saint-Germain,J. Pedro,L. Delap,59,2026-03-17
+Round of 16,Chelsea,Paris Saint-Germain,C. Palmer,A. Garnacho,59,2026-03-17
+Round of 16,Paris Saint-Germain,Chelsea,B. Barcola,D. Doué,59,2026-03-17
+Round of 16,Chelsea,Paris Saint-Germain,M. Sarr,J. Acheampong,46,2026-03-17
+Round of 16,Paris Saint-Germain,Chelsea,J. Neves,S. Mayulu,46,2026-03-17
+Round of 16,Real Madrid,Manchester City,T. Alexander-Arnold,D. Carvajal,83,2026-03-17
+Round of 16,Real Madrid,Manchester City,T. Pitarch,M. Á. Morán,74,2026-03-17
+Round of 16,Real Madrid,Manchester City,A. Güler,E. Camavinga,74,2026-03-17
+Round of 16,Manchester City,Real Madrid,Rodri,N. González,74,2026-03-17
+Round of 16,Real Madrid,Manchester City,B. Díaz,K. Mbappé,69,2026-03-17
+Round of 16,Manchester City,Real Madrid,M. Nunes,A. Semenyo,57,2026-03-17
+Round of 16,Manchester City,Real Madrid,E. Haaland,O. Marmoush,56,2026-03-17
+Round of 16,Manchester City,Real Madrid,T. Reijnders,N. Ake,46,2026-03-17
+Round of 16,Real Madrid,Manchester City,T. Courtois,A. Lunin,46,2026-03-17
+Round of 16,Manchester City,Real Madrid,R. Dias,M. Guéhi,46,2026-03-17
+Round of 16,FC Barcelona,Newcastle United,J. García,W. Szczesny,82,2026-03-18
+Round of 16,Newcastle United,FC Barcelona,A. Gordon,W. Osula,81,2026-03-18
+Round of 16,FC Barcelona,Newcastle United,F. López,D. Olmo,67,2026-03-18
+Round of 16,FC Barcelona,Newcastle United,R. Lewandowski,F. Torres,66,2026-03-18
+Round of 16,FC Barcelona,Newcastle United,J. Cancelo,X. Espart,66,2026-03-18
+Round of 16,Newcastle United,FC Barcelona,A. Elanga,J. Murphy,64,2026-03-18
+Round of 16,Newcastle United,FC Barcelona,Joelinton,S. Botman,64,2026-03-18
+Round of 16,Newcastle United,FC Barcelona,S. Tonali,J. Willock,55,2026-03-18
+Round of 16,Newcastle United,FC Barcelona,K. Trippier,V. Livramento,46,2026-03-18
+Round of 16,FC Barcelona,Newcastle United,E. García,R. Araújo,22,2026-03-18
+Round of 16,FC Bayern München,Atalanta,R. Guerreiro,H. Itō,83,2026-03-18
+Round of 16,Atalanta,FC Bayern München,G. Scalvini,H. Ahanor,83,2026-03-18
+Round of 16,FC Bayern München,Atalanta,J. Stanišić,F. Pavić,72,2026-03-18
+Round of 16,FC Bayern München,Atalanta,T. Bischof,S. Gnabry,72,2026-03-18
+Round of 16,FC Bayern München,Atalanta,H. Kane,N. Jackson,72,2026-03-18
+Round of 16,Atalanta,FC Bayern München,G. Scamacca,N. Krstović,71,2026-03-18
+Round of 16,Atalanta,FC Bayern München,K. Sulemana,G. Raspadori,71,2026-03-18
+Round of 16,Atalanta,FC Bayern München,Éderson,M. de Roon,57,2026-03-18
+Round of 16,Atalanta,FC Bayern München,C. De Ketelaere,L. Samardžić,57,2026-03-18
+Round of 16,FC Bayern München,Atalanta,A. Pavlović,D. Ofli,56,2026-03-18
+Round of 16,Atlético Madrid,Tottenham Hotspur,G. Simeone,J. M. Giménez,87,2026-03-18
+Round of 16,Atlético Madrid,Tottenham Hotspur,A. Griezmann,A. Baena,84,2026-03-18
+Round of 16,Atlético Madrid,Tottenham Hotspur,J. Álvarez,N. González,84,2026-03-18
+Round of 16,Tottenham Hotspur,Atlético Madrid,C. Romero,K. Danso,81,2026-03-18
+Round of 16,Tottenham Hotspur,Atlético Madrid,A. Gray,C. Gallagher,81,2026-03-18
+Round of 16,Tottenham Hotspur,Atlético Madrid,M. Tel,C. Olusesi,81,2026-03-18
+Round of 16,Tottenham Hotspur,Atlético Madrid,P. Porro,L. Bergvall,74,2026-03-18
+Round of 16,Tottenham Hotspur,Atlético Madrid,R. Drăguşin,D. Udogie,66,2026-03-18
+Round of 16,Atlético Madrid,Tottenham Hotspur,N. Molina,Koke,64,2026-03-18
+Round of 16,Atlético Madrid,Tottenham Hotspur,A. Lookman,A. Sørloth,63,2026-03-18
+Round of 16,Liverpool,Galatasaray,F. Wirtz,R. Ngumoha,89,2026-03-18
+Round of 16,Liverpool,Galatasaray,R. Gravenberch,T. Nyoni,89,2026-03-18
+Round of 16,Liverpool,Galatasaray,H. Ekitiké,F. Chiesa,89,2026-03-18
+Round of 16,Galatasaray,Liverpool,N. Lang,M. Icardi,80,2026-03-18
+Round of 16,Liverpool,Galatasaray,M. Salah,C. Gakpo,74,2026-03-18
+Round of 16,Galatasaray,Liverpool,A. Bardakci,E. Elmalı,73,2026-03-18
+Round of 16,Liverpool,Galatasaray,J. Frimpong,C. Jones,67,2026-03-18
+Round of 16,Galatasaray,Liverpool,L. Torreira,Y. Akgün,60,2026-03-18
+Round of 16,Galatasaray,Liverpool,S. Boey,N. Lang,46,2026-03-18
+Round of 16,Galatasaray,Liverpool,V. Osimhen,L. Sane,46,2026-03-18
+Quarterfinals,Sporting CP,Arsenal,P. Gonçalves,R. Nel,79,2026-04-07
+Quarterfinals,Arsenal,Sporting CP,N. Madueke,M. Dowman,76,2026-04-07
+Quarterfinals,Arsenal,Sporting CP,L. Trossard,G. Martinelli,76,2026-04-07
+Quarterfinals,Arsenal,Sporting CP,M. Odegaard,K. Havertz,70,2026-04-07
+Quarterfinals,Sporting CP,Arsenal,J. Simões,D. Bragança,62,2026-04-07
+Quarterfinals,FC Bayern München,Real Madrid,A. Pavlović,L. Goretzka,90,2026-04-07
+Quarterfinals,FC Bayern München,Real Madrid,L. Díaz,T. Bischof,90,2026-04-07
+Quarterfinals,Real Madrid,FC Bayern München,A. Güler,B. Díaz,71,2026-04-07
+Quarterfinals,FC Bayern München,Real Madrid,K. Laimer,A. Davies,69,2026-04-07
+Quarterfinals,FC Bayern München,Real Madrid,S. Gnabry,J. Musiala,69,2026-04-07
+Quarterfinals,Real Madrid,FC Bayern München,T. Pitarch,J. Bellingham,62,2026-04-07
+Quarterfinals,Real Madrid,FC Bayern München,D. Huijsen,É. Militão,62,2026-04-07
+Quarterfinals,Liverpool,Paris Saint-Germain,J. Frimpong,T. Nyoni,90,2026-04-08
+Quarterfinals,Paris Saint-Germain,Liverpool,O. Dembélé,L. Hernandez,88,2026-04-08
+Quarterfinals,Liverpool,Paris Saint-Germain,F. Wirtz,C. Gakpo,78,2026-04-08
+Quarterfinals,Liverpool,Paris Saint-Germain,D. Szoboszlai,C. Jones,78,2026-04-08
+Quarterfinals,Liverpool,Paris Saint-Germain,H. Ekitiké,A. Isak,78,2026-04-08
+Quarterfinals,Liverpool,Paris Saint-Germain,M. Kerkez,A. Robertson,78,2026-04-08
+Quarterfinals,Paris Saint-Germain,Liverpool,D. Doué,K. Lee,78,2026-04-08
+Quarterfinals,FC Barcelona,Atlético Madrid,J. Cancelo,A. Balde,86,2026-04-08
+Quarterfinals,Atlético Madrid,FC Barcelona,G. Simeone,T. Almada,80,2026-04-08
+Quarterfinals,Atlético Madrid,FC Barcelona,A. Griezmann,N. González,80,2026-04-08
+Quarterfinals,FC Barcelona,Atlético Madrid,M. Rashford,F. Torres,73,2026-04-08
+Quarterfinals,FC Barcelona,Atlético Madrid,J. Koundé,R. Araújo,73,2026-04-08
+Quarterfinals,Atlético Madrid,FC Barcelona,Koke,A. Baena,60,2026-04-08
+Quarterfinals,Atlético Madrid,FC Barcelona,A. Lookman,A. Sørloth,60,2026-04-08
+Quarterfinals,FC Barcelona,Atlético Madrid,Pedri,Gavi,46,2026-04-08
+Quarterfinals,FC Barcelona,Atlético Madrid,R. Lewandowski,F. López,46,2026-04-08
+Quarterfinals,Atlético Madrid,FC Barcelona,D. Hancko,Pubill,31,2026-04-08
